@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-05T16:08:29Z",
-    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "timestamp_osm_base": "2025-05-05T17:46:06Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -40,21 +40,19 @@
   "lon": -43.9191272,
   "tags": {
     "OBTC": "UAIBIT",
+    "PBTC": "https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg",
     "addr:city": "Belo Horizonte",
     "addr:street": "Avenida Saramenha",
-    "addr:suburb": "Guarani",
     "check_date": "2025-04-17",
     "currency:BRL": "yes",
     "currency:XBT": "yes",
+    "description": "LG Calçados Localizada no coração de Belo Horizonte, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e e",
     "name": "LG calçados",
     "opening_hours": "Mo-Su 08:00-19:00",
     "payment:apple_pay": "yes",
-    "payment:cash": "yes",
     "payment:credit_cards": "yes",
     "payment:google_pay": "yes",
-    "payment:lightning": "yes",
     "payment:lightning_contactless": "yes",
-    "payment:onchain": "yes",
     "phone": "+55 31 99258 7346",
     "shop": "shoes"
   }

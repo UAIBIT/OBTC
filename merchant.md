@@ -22,23 +22,22 @@
 **Type:** node
 **ID:** 12618816495
 **Coordinates:** -19.8430171, -43.9191272
-**Address:** Avenida Saramenha, Guarani, Belo Horizonte
+**Address:** Avenida Saramenha, Belo Horizonte
 **Details:**
 - **OBTC:** UAIBIT
 - **check_date:** 2025-04-17
 - **currency:BRL:** yes
 - **currency:XBT:** yes
+- **description:** LG Calçados Localizada no coração de Belo Horizonte, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e e
 - **opening_hours:** Mo-Su 08:00-19:00
 - **payment:apple_pay:** yes
-- **payment:cash:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
-- **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
-- **payment:onchain:** yes
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
 
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg)
 
 ## BRAVE MEN'S
 **Type:** node

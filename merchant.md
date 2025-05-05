@@ -16,7 +16,8 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12588945794) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12588945794) 
 
 ## LG calçados
 **Type:** node
@@ -24,7 +25,8 @@
 **Coordinates:** -19.8430171, -43.9191272
 **Address:** Avenida Saramenha, Belo Horizonte
 **Details:**
-- **CBTC:** BitcoinBH
+
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg)- **CBTC:** BitcoinBH
 - **OBTC:** UAIBIT
 - **check_date:** 2025-04-17
 - **currency:BRL:** yes
@@ -36,8 +38,8 @@
 - **payment:google_pay:** yes
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
-
-**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12618816495) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12618816495) 
 
 ## BRAVE MEN'S
 **Type:** node
@@ -64,7 +66,8 @@
 - **phone:** +55 31 99751 8370
 - **shop:** hairdresser
 - **website:** https://booksy.com/pt-br/137432_barbearia-brave-mens_barbearias_459592_belo-horizonte
-
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12644175177) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12644175177) 
 
 ## Studio Guilherme Franco
 **Type:** node
@@ -97,7 +100,8 @@
 - **phone:** 37999231316
 - **shop:** hairdresser
 - **survey:date:** 2025-03-19
-
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12682198306) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12682198306) 
 
 ## Toca do Surubim
 **Type:** node
@@ -105,7 +109,8 @@
 **Coordinates:** -19.6547091, -43.9145878
 **Address:** Av. Das Árvores, 496, Vila Jardim Pres, Lagoa Santa, 33239-876
 **Details:**
-- **CBTC:** LagoaBitcoin
+
+**PBTC:** ![PBTC](https://github.com/UAIBIT/PBTC/blob/main/TocaSurubim.jpg)- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **amenity:** restaurant
 - **check_date:** 2025-04-18
@@ -137,8 +142,8 @@
 - **survey:date:** 2025-04-08
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
-
-**PBTC:** ![PBTC](https://github.com/UAIBIT/PBTC/blob/main/TocaSurubim.jpg)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659) 
 
 ## Ristorante Don Biondini
 **Type:** node
@@ -146,7 +151,8 @@
 **Coordinates:** -19.6290142, -43.8899903
 **Address:** Rua Cecília Dolabela Portela, 175, Centro, Lagoa Santa, 3440000
 **Details:**
-- **CBTC:** LagoaBitcoin
+
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp)- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **amenity:** restaurant
 - **cuisine:** italian;pizza;pasta
@@ -158,8 +164,8 @@
 - **phone:** +55 31 98393-1534
 - **survey:date:** 2025-04-11
 - **website:** https://www.instagram.com/donbiondini/
-
-**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114) 
 
 ## Go Fit Estilo de Vida Saudável
 **Type:** node
@@ -197,5 +203,6 @@
 - **takeaway:** yes
 - **website:** https://www.instagram.com/gofit.lifestyle
 - **website:menu:** https://www.whatsapp.com/catalog/553175244266
-
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12757467968) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12757467968) 
 

@@ -24,16 +24,16 @@
 **Coordinates:** -19.8430171, -43.9191272
 **Address:** Avenida Saramenha, Belo Horizonte
 **Details:**
+- **CBTC:** BitcoinBH
 - **OBTC:** UAIBIT
 - **check_date:** 2025-04-17
 - **currency:BRL:** yes
 - **currency:XBT:** yes
-- **description:** LG Calçados Localizada no coração de Belo Horizonte, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e e
+- **description:** LG Calçados, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e estilo.
 - **opening_hours:** Mo-Su 08:00-19:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
-- **payment:lightning_contactless:** yes
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
 

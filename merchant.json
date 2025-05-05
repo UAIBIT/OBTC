@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-05T17:46:06Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-05-05T18:14:45Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -39,6 +39,7 @@
   "lat": -19.8430171,
   "lon": -43.9191272,
   "tags": {
+    "CBTC": "BitcoinBH",
     "OBTC": "UAIBIT",
     "PBTC": "https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg",
     "addr:city": "Belo Horizonte",
@@ -46,13 +47,12 @@
     "check_date": "2025-04-17",
     "currency:BRL": "yes",
     "currency:XBT": "yes",
-    "description": "LG Calçados Localizada no coração de Belo Horizonte, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e e",
+    "description": "LG Calçados, oferece uma seleção premium de tênis, sandálias, botas e sapatos sociais para todos os estilos e ocasiões. Nosso foco é unir conforto e durabilidade, garantindo que você caminhe sempre com segurança e estilo.",
     "name": "LG calçados",
     "opening_hours": "Mo-Su 08:00-19:00",
     "payment:apple_pay": "yes",
     "payment:credit_cards": "yes",
     "payment:google_pay": "yes",
-    "payment:lightning_contactless": "yes",
     "phone": "+55 31 99258 7346",
     "shop": "shoes"
   }

@@ -17,6 +17,7 @@
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
 
+
 ## LG calçados
 **Type:** node
 **ID:** 12618816495
@@ -37,6 +38,7 @@
 - **payment:onchain:** yes
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
+
 
 ## BRAVE MEN'S
 **Type:** node
@@ -63,6 +65,7 @@
 - **phone:** +55 31 99751 8370
 - **shop:** hairdresser
 - **website:** https://booksy.com/pt-br/137432_barbearia-brave-mens_barbearias_459592_belo-horizonte
+
 
 ## Studio Guilherme Franco
 **Type:** node
@@ -95,6 +98,7 @@
 - **phone:** 37999231316
 - **shop:** hairdresser
 - **survey:date:** 2025-03-19
+
 
 ## Toca do Surubim
 **Type:** node
@@ -135,6 +139,7 @@
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
 
+
 ## Ristorante Don Biondini
 **Type:** node
 **ID:** 12748053114
@@ -143,7 +148,6 @@
 **Details:**
 - **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
-- **PBTC:** https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp
 - **amenity:** restaurant
 - **cuisine:** italian;pizza;pasta
 - **currency:XBT:** yes
@@ -154,6 +158,8 @@
 - **phone:** +55 31 98393-1534
 - **survey:date:** 2025-04-11
 - **website:** https://www.instagram.com/donbiondini/
+
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp)
 
 ## Go Fit Estilo de Vida Saudável
 **Type:** node
@@ -191,4 +197,5 @@
 - **takeaway:** yes
 - **website:** https://www.instagram.com/gofit.lifestyle
 - **website:menu:** https://www.whatsapp.com/catalog/553175244266
+
 

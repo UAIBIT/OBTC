@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v4
       - name: Process videos
         id: processVideos
-        run: curl --location 'https://overpass-api.de/api/interpreter' --header 'Content-Type:text/plain' --data '[out:json][timeout:180];area(3600059470)->.brazil;(node["OBTC"="UAIBIT"](area.brazil););out body;>;out skel qt;' | jq '.elements' | jq -r 'to_entries[] | "* \(.tags.key)", "  * \(.tags.value[])"'
+        run: curl --location 'https://overpass-api.de/api/interpreter' --header 'Content-Type:text/plain' --data '[out:json][timeout:180];area(3600059470)->.brazil;(node["OBTC"="UAIBIT"](area.brazil););out body;>;out skel qt;' | jq '.elements' |jq -r 'to_entries[] | "* \(.key)\n  * \(.value | join("\n  * "))"' input 

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-05T14:58:45Z",
+    "timestamp_osm_base": "2025-05-05T15:54:01Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -175,6 +175,33 @@
     "survey:date": "2025-04-08",
     "takeaway": "yes",
     "website": "https://www.instagram.com/tocadosurubimoficia"
+  }
+},
+{
+  "type": "node",
+  "id": 12748053114,
+  "lat": -19.6290142,
+  "lon": -43.8899903,
+  "tags": {
+    "CBTC": "LagoaBitcoin",
+    "OBTC": "UAIBIT",
+    "PBTC": "https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp",
+    "addr:city": "Lagoa Santa",
+    "addr:housenumber": "175",
+    "addr:postcode": "3440000",
+    "addr:street": "Rua Cecília Dolabela Portela",
+    "addr:suburb": "Centro",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;pasta",
+    "currency:XBT": "yes",
+    "name": "Ristorante Don Biondini",
+    "opening_hours": "Tu-Th 18:00-23:00 Fr-Sa 18:30-00:00 Su 18:30-21:00",
+    "payment:apple_pay": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "phone": "+55 31 98393-1534",
+    "survey:date": "2025-04-11",
+    "website": "https://www.instagram.com/donbiondini/"
   }
 },
 {

@@ -18,4 +18,6 @@ jobs:
              && jq -r '.elements[] |"## \(.tags.name // "Unnamed Location")\n" +"**Type:** \(.type)" + "\n" +"**ID:** \(.id)" + "\n" +"**Coordinates:** \(.lat), \(.lon)\n" +([(.tags["addr:street"] // empty),(.tags["addr:housenumber"] // empty),(.tags["addr:suburb"] // empty),(.tags["addr:city"] // empty),(.tags["addr:postcode"] // empty)] | map(select(length > 0)) | join(", ") | if length > 0 then "**Address:** " + . + "\n" else "" end) +"**Details:**\n" +(.tags| to_entries| map(select(.key | test("^(?!addr:|name$).*")))  | map("- **\(.key):** \(.value)")| join("\n")) + "\n"' merchant.json > output.md
              && git add .
              && git commit -m 'chore:add data'
+             && git config --global user.name "juancolchete"
+             && git config --global user.email "juancolchete@gmail.com"
              && git push

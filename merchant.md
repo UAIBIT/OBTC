@@ -16,7 +16,9 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12588945794) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12588945794) 
 
 ## LG calçados
@@ -38,7 +40,9 @@
 - **payment:google_pay:** yes
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12618816495) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12618816495) 
 
 ## BRAVE MEN'S
@@ -66,7 +70,9 @@
 - **phone:** +55 31 99751 8370
 - **shop:** hairdresser
 - **website:** https://booksy.com/pt-br/137432_barbearia-brave-mens_barbearias_459592_belo-horizonte
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12644175177) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12644175177) 
 
 ## Studio Guilherme Franco
@@ -100,7 +106,9 @@
 - **phone:** 37999231316
 - **shop:** hairdresser
 - **survey:date:** 2025-03-19
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12682198306) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12682198306) 
 
 ## Toca do Surubim
@@ -142,7 +150,9 @@
 - **survey:date:** 2025-04-08
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659) 
 
 ## Ristorante Don Biondini
@@ -164,7 +174,9 @@
 - **phone:** +55 31 98393-1534
 - **survey:date:** 2025-04-11
 - **website:** https://www.instagram.com/donbiondini/
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114) 
 
 ## Go Fit Estilo de Vida Saudável
@@ -203,6 +215,8 @@
 - **takeaway:** yes
 - **website:** https://www.instagram.com/gofit.lifestyle
 - **website:menu:** https://www.whatsapp.com/catalog/553175244266
+
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12757467968) 
+
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12757467968) 
 

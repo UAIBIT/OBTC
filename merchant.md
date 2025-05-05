@@ -18,7 +18,6 @@
 - **payment:onchain:** yes
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12588945794) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12588945794) 
 
 ## LG calçados
@@ -42,7 +41,6 @@
 - **shop:** shoes
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12618816495) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12618816495) 
 
 ## BRAVE MEN'S
@@ -72,7 +70,6 @@
 - **website:** https://booksy.com/pt-br/137432_barbearia-brave-mens_barbearias_459592_belo-horizonte
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12644175177) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12644175177) 
 
 ## Studio Guilherme Franco
@@ -108,7 +105,6 @@
 - **survey:date:** 2025-03-19
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12682198306) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12682198306) 
 
 ## Toca do Surubim
@@ -152,7 +148,6 @@
 - **website:** https://www.instagram.com/tocadosurubimoficia
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659) 
 
 ## Ristorante Don Biondini
@@ -176,7 +171,6 @@
 - **website:** https://www.instagram.com/donbiondini/
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114) 
 
 ## Go Fit Estilo de Vida Saudável
@@ -217,6 +211,5 @@
 - **website:menu:** https://www.whatsapp.com/catalog/553175244266
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12757467968) 
-
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12757467968) 
 

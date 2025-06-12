@@ -315,3 +315,32 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12899226015) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12899226015) 
 
+## Soul de Minas
+**Type:** node
+**ID:** 12909665594
+**Coordinates:** -20.7548755, -42.8783671
+**Address:** Beco dos Passos, 49, Centro, Viçosa, 36.570-001
+**Details:**
+
+**PBTC:** ![PBTC](https://i.ibb.co/9HmppgwC/Whats-App-Image-2025-06-09-at-12.jpg)- **CBTC:** BitcoinViçosa
+- **OBTC:** UAIBIT
+- **check_date:** 2025-06-09
+- **contact:instagram:** https://www.instagram.com/souldeminasuai
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Comércio varejista de artigos do vestuário e acessórios, de acordo com o código CNAE G-4781-4/00
+- **lat:** -20.7549175
+- **lon:** -42.8785390
+- **opening_hours:** Online
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:onchain:** yes
+- **shop:** clothes
+- **survey:date:** 2025-06-09
+- **website:** https://www.souldeminasuai.com/
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12909665594) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12909665594) 
+

@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-12T15:10:42Z",
-    "timestamp_areas_base": "2025-06-12T10:28:29Z",
+    "timestamp_osm_base": "2025-06-12T15:36:15Z",
+    "timestamp_areas_base": "2025-06-12T10:56:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -363,6 +363,39 @@
     "phone": "+5531975966531",
     "shop": "beverages",
     "survey:date": "2025-05-22"
+  }
+},
+{
+  "type": "node",
+  "id": 12909665594,
+  "lat": -20.7548755,
+  "lon": -42.8783671,
+  "tags": {
+    "CBTC": "BitcoinViçosa",
+    "OBTC": "UAIBIT",
+    "PBTC": "https://i.ibb.co/9HmppgwC/Whats-App-Image-2025-06-09-at-12.jpg",
+    "addr:city": "Viçosa",
+    "addr:housenumber": "49",
+    "addr:postcode": "36.570-001",
+    "addr:street": "Beco dos Passos",
+    "addr:suburb": "Centro",
+    "check_date": "2025-06-09",
+    "contact:instagram": "https://www.instagram.com/souldeminasuai",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Comércio varejista de artigos do vestuário e acessórios, de acordo com o código CNAE G-4781-4/00",
+    "lat": "-20.7549175",
+    "lon": "-42.8785390",
+    "name": "Soul de Minas",
+    "opening_hours": "Online",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:onchain": "yes",
+    "shop": "clothes",
+    "survey:date": "2025-06-09",
+    "website": "https://www.souldeminasuai.com/"
   }
 }
 

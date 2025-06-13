@@ -344,3 +344,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12909665594) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12909665594) 
 
+## Lemos Veloso Marido de Aluguel MOC
+**Type:** node
+**ID:** 12911681456
+**Coordinates:** -16.7562512, -43.8897845
+**Address:** Av. Corinto Crisóstomo Freire, Morada do Sol, Montes Claros, 39401-365
+**Details:**
+
+**PBTC:** ![PBTC](https://i.ibb.co/RTNrnkWj/Captura-de-tela-de-2025-06-12-21-42-48.png)- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-12
+- **contact:instagram:** https://www.instagram.com/lemos_veloso/
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Manutenção e reparos, marido de aluguel
+- **lat:** -16.7561960
+- **lon:** -43.8898766
+- **opening_hours:** Mo-Fr 9:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 38 99814 6869
+- **survey:date:** 2025-06-12
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12911681456) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12911681456) 
+

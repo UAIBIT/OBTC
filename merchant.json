@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-12T23:54:56Z",
-    "timestamp_areas_base": "2025-06-12T21:04:36Z",
+    "timestamp_osm_base": "2025-06-13T02:09:02Z",
+    "timestamp_areas_base": "2025-06-12T21:43:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -396,6 +396,39 @@
     "shop": "clothes",
     "survey:date": "2025-06-09",
     "website": "https://www.souldeminasuai.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12911681456,
+  "lat": -16.7562512,
+  "lon": -43.8897845,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "PBTC": "https://i.ibb.co/RTNrnkWj/Captura-de-tela-de-2025-06-12-21-42-48.png",
+    "access": "yes",
+    "addr:city": "Montes Claros",
+    "addr:postcode": "39401-365",
+    "addr:street": "Av. Corinto Crisóstomo Freire",
+    "addr:suburb": "Morada do Sol",
+    "check_date": "2025-06-12",
+    "contact:instagram": "https://www.instagram.com/lemos_veloso/",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Manutenção e reparos, marido de aluguel",
+    "lat": "-16.7561960",
+    "lon": "-43.8898766",
+    "name": "Lemos Veloso Marido de Aluguel MOC",
+    "opening_hours": "Mo-Fr 9:00-18:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 38 99814 6869",
+    "survey:date": "2025-06-12"
   }
 }
 

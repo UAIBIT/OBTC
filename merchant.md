@@ -376,3 +376,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917685248) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917685248) 
 
+## Ótica Ísis Prime
+**Type:** node
+**ID:** 12917754509
+**Coordinates:** -15.3689877, -43.6541870
+**Address:** Avenida Corone Moacir José da Silva, 695, Jaíba - MG, 39508-000, 695, Jaíba - MG, 39508-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-15
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja 4
+- **lat:** -15.3689427
+- **lon:** -43.6542047
+- **opening_hours:** Mo-Fr 8:00-18:00 Sa 8:00-13:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 38 99985-3660
+- **shop:** optician
+- **survey:date:** 2025-06-15
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917754509) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917754509) 
+

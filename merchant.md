@@ -469,3 +469,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917852227) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917852227) 
 
+## Ótica Ísis Prime
+**Type:** node
+**ID:** 12917855385
+**Coordinates:** -15.5321239, -43.0650391
+**Address:** Rua Guilhermino Tolentino Pinto, centro, Pai Pedro - MG, 39517-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-15
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Palloma Fashion loja 7
+- **lat:** -15.5321092
+- **lon:** -43.0651856
+- **opening_hours:** Mo-Fr 8:00-18:00 Sa 8:00-13:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **shop:** optician
+- **survey:date:** 2025-06-15
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917855385) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917855385) 
+

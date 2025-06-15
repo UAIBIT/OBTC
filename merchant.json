@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-15T16:17:15Z",
-    "timestamp_areas_base": "2025-06-15T10:49:56Z",
+    "timestamp_osm_base": "2025-06-15T16:42:44Z",
+    "timestamp_areas_base": "2025-06-15T01:53:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -395,6 +395,40 @@
     "payment:lightning_contactless": "yes",
     "payment:onchain": "yes",
     "phone": "+55 38 99808-1121",
+    "shop": "optician",
+    "survey:date": "2025-06-15",
+    "website": "https://beacons.ai/oticaisisprime"
+  }
+},
+{
+  "type": "node",
+  "id": 12917685248,
+  "lat": -15.7449081,
+  "lon": -43.0266805,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Porteirinha - MG",
+    "addr:housenumber": "40",
+    "addr:postcode": "39520-000",
+    "addr:street": "Rua Marechal Deodoro da Fonseca",
+    "addr:suburb": "Centro",
+    "check_date": "2025-06-15",
+    "contact:instagram": "https://www.instagram.com/oticaisisprimeoficial",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Loja 2",
+    "lat": "-15.7449879",
+    "lon": "-43.0267659",
+    "name": "Ótica Ísis Prime",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 38 99840-4041",
     "shop": "optician",
     "survey:date": "2025-06-15",
     "website": "https://beacons.ai/oticaisisprime"

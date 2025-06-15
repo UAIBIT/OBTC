@@ -346,3 +346,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917633215) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917633215) 
 
+## Ótica Ísis Prime
+**Type:** node
+**ID:** 12917685248
+**Coordinates:** -15.7449081, -43.0266805
+**Address:** Rua Marechal Deodoro da Fonseca, 40, Centro, Porteirinha - MG, 39520-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-15
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja 2
+- **lat:** -15.7449879
+- **lon:** -43.0267659
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 38 99840-4041
+- **shop:** optician
+- **survey:date:** 2025-06-15
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917685248) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917685248) 
+

@@ -407,3 +407,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917754509) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917754509) 
 
+## Ótica Ísis Prime
+**Type:** node
+**ID:** 12917823006
+**Coordinates:** -15.8048181, -43.3086140
+**Address:** Avenida do Comércio, 412, Centro, Janaúba - MG, 39442-016
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-15
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja 5
+- **lat:** -15.8048716
+- **lon:** -43.3083679
+- **opening_hours:** Mo-Fr 8:00-18:00 Sa 8:00-13:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 38 99755-2657
+- **shop:** optician
+- **survey:date:** 2025-06-15
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917823006) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917823006) 
+

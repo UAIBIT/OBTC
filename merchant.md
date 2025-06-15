@@ -438,3 +438,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917823006) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917823006) 
 
+## Ótica Ísis Prime
+**Type:** node
+**ID:** 12917852227
+**Coordinates:** -15.3970233, -42.8638879
+**Address:** Rua Rui da Silveira Machado, 272, Mato Verde - MG, 39527-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-15
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja 6
+- **lat:** -15.3970446
+- **lon:** -42.8639638
+- **opening_hours:** Mo-Fr 8:00-18:00 Sa 8:00-13:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 38 99904 6317
+- **shop:** optician
+- **survey:date:** 2025-06-15
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917852227) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917852227) 
+

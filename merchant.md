@@ -499,3 +499,64 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12917855385) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12917855385) 
 
+## Embalagens M2B
+**Type:** node
+**ID:** 12949780709
+**Coordinates:** -20.0241476, -44.0604611
+**Address:** R. Silveira, 184, Centro, Ibirité - MG, 32400-197
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-24
+- **contact:instagram:** https://www.instagram.com/embalagensm2b
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja de venda de embalagens
+- **lat:** -20.0241615
+- **lon:** -44.060795
+- **man_made:** works
+- **opening_hours:** Su-Fr 7:50-17:38
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 3533 4049
+- **shop:** other
+- **survey:date:** 2025-06-24
+- **website:** https://embalagensm2b.com.br
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12949780709) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12949780709) 
+
+## Revolução Empresarial
+**Type:** node
+**ID:** 12949789896
+**Coordinates:** -20.0242207, -44.0604825
+**Address:** R. N. Silveira, 184, Centro, Ibirité - MG, 32400-197
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-06-24
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Loja de venda de embalagens
+- **lat:** -20.0241615
+- **lon:** -44.060795
+- **opening_hours:** Su-Fr 9:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **shop:** other
+- **survey:date:** 2025-06-24
+- **website:** https://revolucaoempresarial.com.br
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12949789896) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12949789896) 
+

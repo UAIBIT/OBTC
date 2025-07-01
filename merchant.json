@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-01T15:47:35Z",
-    "timestamp_areas_base": "2025-07-01T10:52:18Z",
+    "timestamp_osm_base": "2025-07-01T16:13:15Z",
+    "timestamp_areas_base": "2025-06-25T21:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -672,6 +672,42 @@
     "shop": "optician",
     "survey:date": "2025-07-01",
     "website": "https://beacons.ai/oticaisisprime"
+  }
+},
+{
+  "type": "node",
+  "id": 12966703441,
+  "lat": -19.5975027,
+  "lon": -43.8819194,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Lagoa Santa - MG",
+    "addr:housenumber": "775",
+    "addr:postcode": "33235-026",
+    "addr:street": "Alameda Acácia Imperial",
+    "addr:suburb": "Jardim Flamboyant",
+    "check_date": "2025-07-01",
+    "contact:instagram": "https://www.instagram.com/attackclube/",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Clube de tiro e caça",
+    "lat": "-19.597509",
+    "leisure": "sports_centre",
+    "lon": "-43.881961",
+    "name": "Attack Clube de tiro e caça",
+    "opening_hours": "Mo-Sa 9:00-1800",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 3424 6929",
+    "sport": "shooting",
+    "survey:date": "2025-07-01",
+    "website": "https://www.attackclubedetiroecaca.com.br/"
   }
 }
 

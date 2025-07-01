@@ -591,3 +591,35 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12966658745) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12966658745) 
 
+## Attack Clube de tiro e caça
+**Type:** node
+**ID:** 12966703441
+**Coordinates:** -19.5975027, -43.8819194
+**Address:** Alameda Acácia Imperial, 775, Jardim Flamboyant, Lagoa Santa - MG, 33235-026
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-01
+- **contact:instagram:** https://www.instagram.com/attackclube/
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Clube de tiro e caça
+- **lat:** -19.597509
+- **leisure:** sports_centre
+- **lon:** -43.881961
+- **opening_hours:** Mo-Sa 9:00-1800
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 3424 6929
+- **sport:** shooting
+- **survey:date:** 2025-07-01
+- **website:** https://www.attackclubedetiroecaca.com.br/
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12966703441) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12966703441) 
+

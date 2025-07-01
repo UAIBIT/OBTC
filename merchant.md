@@ -560,3 +560,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12949789896) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12949789896) 
 
+## ótica Ísis Prime
+**Type:** node
+**ID:** 12966658745
+**Coordinates:** -15.7439331, -43.0257031
+**Address:** Praça Tiradentes, 228, Centro, Porteirinha - MG, 39520-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-01
+- **contact:instagram:** https://www.instagram.com/oticaisisprimeoficial
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Dr. Emerson Guimarães Eye Clinic
+- **lat:** -15.7439053
+- **lon:** -43.0257491
+- **opening_hours:** Mo-Fr 7:00-18:00 Sat 7:00-13:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 38311540
+- **shop:** optician
+- **survey:date:** 2025-07-01
+- **website:** https://beacons.ai/oticaisisprime
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12966658745) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12966658745) 
+

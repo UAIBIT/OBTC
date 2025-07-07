@@ -10,5 +10,21 @@
 {
   "name": "BitcoinPipa",
   "image": "https://raw.githubusercontent.com/BitcoinPipa/Files/bb441518f69b246c6758efa33fbbbcbb81f7b3dd/BicoinPipa.jpg"
+},
+{
+  "name": "BitcoinPompeu",
+  "image": "https://raw.githubusercontent.com/BitcoinPompeu/files/63bdd42faf3df965052cd266e8bc7efdd7b8bc25/BitcoinPompeu.jpg"
+},
+{
+  "name": "BitcoinVicosa",
+  "image": "https://github.com/BitcoinVicosa/Files/blob/b902e7c42414915c355516e9b0c2d053ebbbcdcd/BitcoinVi%C3%A7osa.jpg"
+},
+{
+  "name": "LagoaBitcoin",
+  "image": "https://raw.githubusercontent.com/LAGOABITCOIN/files/3a2bc2b0795012f0453a9e8d14e1e7e3cb01dd62/lagoa-bitcoin.svg"
+},
+{
+  "name": "BitcoinBH",
+  "image": "https://raw.githubusercontent.com/BitcoinBH/Files/c2b649b9912937770b033ebf0ff2c0b7be488eaf/BitcoinBH.jpg"
 }
 ]

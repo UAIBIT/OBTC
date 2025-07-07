@@ -3,6 +3,11 @@
   "image": "https://raw.githubusercontent.com/UAIBIT/Files/cb226335a723ed1a57b57fd11009b12d51e50d98/logos/uaibit/montain.svg"
 },
 {
-  "name": "BitcoinMOC"
-  "image": ""
-}]
+  "name": "BitcoinMOC",
+  "image": "https://raw.githubusercontent.com/BitcoinMOC/Files/7e2cb81eab4bb677b2786a014c9aaa4f078724c2/BitcoinMOC.jpg"
+},
+{
+  "name": "BitcoinPipa",
+  "image": "https://raw.githubusercontent.com/BitcoinPipa/Files/bb441518f69b246c6758efa33fbbbcbb81f7b3dd/BicoinPipa.jpg"
+}
+]

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-08T12:55:14Z",
+    "timestamp_osm_base": "2025-07-08T13:41:02Z",
     "timestamp_areas_base": "2025-07-08T07:22:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -708,6 +708,40 @@
     "sport": "shooting",
     "survey:date": "2025-07-01",
     "website": "https://www.attackclubedetiroecaca.com.br/"
+  }
+},
+{
+  "type": "node",
+  "id": 12987697461,
+  "lat": -3.7505625,
+  "lon": -38.5015637,
+  "tags": {
+    "CBTC": "BitcoinFortaleza",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1140",
+    "addr:postcode": "60135-218",
+    "addr:street": "Rua Joaquim Sá",
+    "addr:suburb": "Dionísio Torres",
+    "amenity": "dojo",
+    "check_date": "2025-07-08",
+    "contact:instagram": "https://www.instagram.com/graciehumaitafortaleza",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Responsável: Lincoln",
+    "lat": "-3.7505957",
+    "lon": "-38.5016245",
+    "name": "Graice Barra Humaitá",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 85 98187 2326",
+    "survey:date": "2025-07-08",
+    "website": "https://www.clubedovolei.com.br/"
   }
 }
 

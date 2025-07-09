@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-09T20:47:14Z",
-    "timestamp_areas_base": "2025-07-09T01:47:14Z",
+    "timestamp_osm_base": "2025-07-09T21:09:32Z",
+    "timestamp_areas_base": "2025-07-09T16:12:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -742,6 +742,40 @@
     "phone": "+55 85 98187 2326",
     "survey:date": "2025-07-08",
     "website": "https://www.clubedovolei.com.br/"
+  }
+},
+{
+  "type": "node",
+  "id": 12990459331,
+  "lat": -27.0948597,
+  "lon": -52.6167866,
+  "tags": {
+    "CBTC": "Bitcoin Chapecó",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "chapeco",
+    "addr:housenumber": "1128",
+    "addr:postcode": "89801-000",
+    "addr:street": "Avenida Getúlio Dorneles Vargas N",
+    "addr:suburb": "centro",
+    "check_date": "2025-07-08",
+    "contact:instagram": "https://www.instagram.com/micell.cco?igsh=b3Mycmc5YXZmeW9x",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Acessorios para celular",
+    "lat": "-27.0948775",
+    "lon": "-52.6168138",
+    "name": "MI Cell",
+    "opening_hours": "segunda a sexta das 09:00 as 17:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "(49) 99117-4731",
+    "shop": "mobile_phone",
+    "survey:date": "2025-07-08"
   }
 }
 

@@ -653,3 +653,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12987697461) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12987697461) 
 
+## MI Cell
+**Type:** node
+**ID:** 12990459331
+**Coordinates:** -27.0948597, -52.6167866
+**Address:** Avenida Getúlio Dorneles Vargas N, 1128, centro, chapeco, 89801-000
+**Details:**
+- **CBTC:** Bitcoin Chapecó
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-08
+- **contact:instagram:** https://www.instagram.com/micell.cco?igsh=b3Mycmc5YXZmeW9x
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Acessorios para celular
+- **lat:** -27.0948775
+- **lon:** -52.6168138
+- **opening_hours:** segunda a sexta das 09:00 as 17:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** (49) 99117-4731
+- **shop:** mobile_phone
+- **survey:date:** 2025-07-08
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12990459331) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12990459331) 
+

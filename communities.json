@@ -2,10 +2,8 @@
 {
   "name": "UAIBIT",
   "slug": "UAIBIT",
-  "github": "https://github.com/uaibit",
-  "communityUrl":"https://btcmap.org/communities#UAIBIT",
-  "site":"https://uaibit.com.br",
-  "image": "https://raw.githubusercontent.com/UAIBIT/Files/cb226335a723ed1a57b57fd11009b12d51e50d98/logos/uaibit/montain.svg"
+  "image": "https://raw.githubusercontent.com/UAIBIT/Files/cb226335a723ed1a57b57fd11009b12d51e50d98/logos/uaibit/montain.svg",
+  "links": ["https://github.com/uaibit","https://btcmap.org/communities#UAIBIT","https://uaibit.com.br"]
 },
 {
   "name": "BitcoinMOC",

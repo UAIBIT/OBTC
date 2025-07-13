@@ -2,7 +2,7 @@
 {
   "name": "UAIBIT",
   "slug": "UAIBIT",
-  "description":"",
+  "description":"UAIBIT is an initiative focused on promoting the adoption of Bitcoin as a payment method, especially among small and medium-sized businesses. It works as a community-driven project that helps merchants understand how to accept Bitcoin legally, securely, and simply — emphasizing self-custody and solutions that respect the principles of Bitcoin, such as censorship resistance and permissionless payments.",
   "image": "https://raw.githubusercontent.com/UAIBIT/Files/cb226335a723ed1a57b57fd11009b12d51e50d98/logos/uaibit/montain.svg",
   "links": ["https://github.com/uaibit","https://btcmap.org/communities#UAIBIT","https://uaibit.com.br","https://www.instagram.com/uaibtc","https://chat.whatsapp.com/DWoU1LaeEFtKuBSO1qIXEe?mode=r_c"]
 },

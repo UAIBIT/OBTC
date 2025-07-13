@@ -37,14 +37,14 @@
 {
   "name": "Lagoa Bitcoin",
   "slug":"LagoaBitcoin",
-  "description":"Lagoa Santa, located approximately 35–37 km from Belo Horizonte, is a vibrant city with around 65,000 to 66,000 inhabitants. The area is known for its rich archaeological heritage, natural beauty, and cultural traditions — making it a unique destination in the metropolitan region of Minas Gerais",
+  "description":"Lagoa Santa, located approximately 35–37 km from Belo Horizonte, is a vibrant city with around 65,000 to 66,000 inhabitants. The area is known for its rich archaeological heritage, natural beauty, and cultural traditions — making it a unique destination in the metropolitan region of Minas Gerais.",
   "image": "https://raw.githubusercontent.com/LAGOABITCOIN/files/3a2bc2b0795012f0453a9e8d14e1e7e3cb01dd62/lagoa-bitcoin.svg",
   "links":["https://github.com/LAGOABITCOIN"]
 },
 {
   "name": "Bitcoin BH",
   "slug":"BitcoinBH",
-  "description":"",
+  "description":"Since its official launch in March 2025, UAIBIT has positioned Belo Horizonte as a Bitcoin hub, promoting education, merchant adoption, and community-based financial sovereignty across the city.",
   "image": "https://raw.githubusercontent.com/BitcoinBH/Files/c2b649b9912937770b033ebf0ff2c0b7be488eaf/BitcoinBH.jpg",
   "links":["https://github.com/BitcoinBH"]
 }

@@ -714,3 +714,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13013672648) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13013672648) 
 
+## Pastello
+**Type:** node
+**ID:** 13013714556
+**Coordinates:** -17.0830265, -40.9349476
+**Address:** Avenida Bias Fortes, 60, Águas Formosas, MG, 39880-000
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-20
+- **contact:instagram:** https://www.instagram.com/pastello_af
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -17.0831967
+- **lon:** -40.9349056
+- **opening_hours:** Mo-Su 9:00-21:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 33 99835-8526
+- **shop:** food
+- **survey:date:** 2025-07-20
+- **website:** https://www.instagram.com/pastello_af
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13013714556) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13013714556) 
+

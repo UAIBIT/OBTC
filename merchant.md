@@ -666,7 +666,7 @@
 - **contact:instagram:** https://www.instagram.com/micell.cco?igsh=b3Mycmc5YXZmeW9x
 - **currency:BRL:** yes
 - **currency:XBT:** yes
-- **description:** Acessorios para celular
+- **description:** Acessorios para celulares
 - **lat:** -27.0948775
 - **lon:** -52.6168138
 - **opening_hours:** segunda a sexta das 09:00 as 17:00

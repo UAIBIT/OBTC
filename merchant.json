@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-23T13:33:30Z",
-    "timestamp_areas_base": "2025-07-23T08:41:26Z",
+    "timestamp_osm_base": "2025-07-23T13:56:01Z",
+    "timestamp_areas_base": "2025-07-23T08:50:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -762,7 +762,7 @@
     "contact:instagram": "https://www.instagram.com/micell.cco?igsh=b3Mycmc5YXZmeW9x",
     "currency:BRL": "yes",
     "currency:XBT": "yes",
-    "description": "Acessorios para celular",
+    "description": "Acessorios para celulares",
     "lat": "-27.0948775",
     "lon": "-52.6168138",
     "name": "MI Cell",

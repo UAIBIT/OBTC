@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-25T14:27:45Z",
-    "timestamp_areas_base": "2025-07-25T11:12:35Z",
+    "timestamp_osm_base": "2025-07-25T14:49:00Z",
+    "timestamp_areas_base": "2025-07-25T11:11:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -750,7 +750,7 @@
   "lat": -27.0948597,
   "lon": -52.6167866,
   "tags": {
-    "CBTC": "Bitcoin Chapecó",
+    "CBTC": "BitcoinChapeco",
     "OBTC": "UAIBIT",
     "access": "yes",
     "addr:city": "chapeco",
@@ -784,7 +784,7 @@
   "lat": -3.8341669,
   "lon": -38.5709252,
   "tags": {
-    "CBTC": "Bitcoin-Fortaleza",
+    "CBTC": "FortalBitcoin",
     "OBTC": "UAIBIT",
     "access": "yes",
     "addr:city": "Fortaleza - CE",
@@ -819,7 +819,7 @@
   "lat": -17.0830265,
   "lon": -40.9349476,
   "tags": {
-    "CBTC": "BitcoinBH",
+    "CBTC": "FormosaBitcoin",
     "OBTC": "UAIBIT",
     "access": "yes",
     "addr:city": "MG",

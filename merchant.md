@@ -659,7 +659,7 @@
 **Coordinates:** -27.0948597, -52.6167866
 **Address:** Avenida Getúlio Dorneles Vargas N, 1128, centro, chapeco, 89801-000
 **Details:**
-- **CBTC:** Bitcoin Chapecó
+- **CBTC:** BitcoinChapeco
 - **OBTC:** UAIBIT
 - **access:** yes
 - **check_date:** 2025-07-08
@@ -689,7 +689,7 @@
 **Coordinates:** -3.8341669, -38.5709252
 **Address:** Avenida Paraíso, 1441, Planalto Ayrton Senna, Fortaleza - CE, 60766-280
 **Details:**
-- **CBTC:** Bitcoin-Fortaleza
+- **CBTC:** FortalBitcoin
 - **OBTC:** UAIBIT
 - **access:** yes
 - **amenity:** bar
@@ -720,7 +720,7 @@
 **Coordinates:** -17.0830265, -40.9349476
 **Address:** Avenida Bias Fortes, 60, Águas Formosas, MG, 39880-000
 **Details:**
-- **CBTC:** BitcoinBH
+- **CBTC:** FormosaBitcoin
 - **OBTC:** UAIBIT
 - **access:** yes
 - **check_date:** 2025-07-20

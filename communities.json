@@ -47,5 +47,12 @@
   "description":"Since its official launch in March 2025, UAIBIT has positioned Belo Horizonte as a Bitcoin hub, promoting education, merchant adoption, and community-based financial sovereignty across the city.",
   "image": "https://raw.githubusercontent.com/BitcoinBH/Files/c2b649b9912937770b033ebf0ff2c0b7be488eaf/BitcoinBH.jpg",
   "links":["https://github.com/BitcoinBH"]
+},
+{
+  "name": "Bitcoin Chapecó",
+  "slug":"BitcoinChapeco",
+  "description":"",
+  "image": "https://raw.githubusercontent.com/BitcoinChapeco/Files/refs/heads/main/BitcoinChapeco.png",
+  "links":["https://github.com/BitcoinChapeco"]
 }
 ]

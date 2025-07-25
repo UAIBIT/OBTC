@@ -179,7 +179,7 @@
 **Coordinates:** -19.6453368, -43.9057759
 **Address:** Rua Coronel Durães, 174, Bela Vista, Lagoa Santa, 33239-206
 **Details:**
-- **CBTC:** Lagoa Bitcoin
+- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **air_conditioning:** yes
 - **amenity:** cafe
@@ -597,7 +597,7 @@
 **Coordinates:** -19.5975027, -43.8819194
 **Address:** Alameda Acácia Imperial, 775, Jardim Flamboyant, Lagoa Santa - MG, 33235-026
 **Details:**
-- **CBTC:** BitcoinBH
+- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **access:** yes
 - **check_date:** 2025-07-01
@@ -629,7 +629,7 @@
 **Coordinates:** -3.7505625, -38.5015637
 **Address:** Rua Joaquim Sá, 1140, Dionísio Torres, Fortaleza, 60135-218
 **Details:**
-- **CBTC:** BitcoinFortaleza
+- **CBTC:** FortalBitcoin
 - **OBTC:** UAIBIT
 - **access:** yes
 - **amenity:** dojo

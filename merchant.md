@@ -744,3 +744,32 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13013714556) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13013714556) 
 
+## Academia Michel Ebertz Jiu-Jitsu
+**Type:** node
+**ID:** 13025316214
+**Coordinates:** -27.0928616, -52.6111796
+**Address:** Rua rio de janeiro, 620 e, Presidente medice, Chapeco, 89801-213
+**Details:**
+- **CBTC:** Bitcoin Chapecó
+- **OBTC:** UAIBIT
+- **check_date:** 2025-07-25
+- **contact:instagram:** https://www.instagram.com/michel_ebertz_?igsh=c2VhdDlwMGJ6M3hv
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Escola de Artes Marciais
+- **lat:** -27.0922364
+- **lon:** -52.6166878
+- **opening_hours:** Segunda e Quarta das 16 até 21 hrs / Terças e Quintas das 10 as 12 hrs e / das 16 até 21 hrs
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 49-999158181
+- **shop:** other
+- **survey:date:** 2025-07-25
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13025316214) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13025316214) 
+

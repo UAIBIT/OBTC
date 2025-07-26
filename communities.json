@@ -54,5 +54,12 @@
   "description":"",
   "image": "https://raw.githubusercontent.com/BitcoinChapeco/Files/refs/heads/main/BitcoinChapeco.png",
   "links":["https://github.com/BitcoinChapeco"]
+},
+{
+  "name":"Formosa Bitcoin",
+  "slug":"FormosaBitcoin",
+  "description":"",
+  "image":"",
+  "links":["https://github.com/FormosaBitcoin"]
 }
 ]

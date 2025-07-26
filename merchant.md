@@ -773,3 +773,30 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13025316214) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13025316214) 
 
+## Experimente Projetos Gastronomicos
+**Type:** node
+**ID:** 13025922164
+**Coordinates:** -20.0605826, -43.9847971
+**Address:** Avenida Quebec, 1450, Jardim Canada, Nova Lima - MG, 34007-634
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** bar
+- **check_date:** 2025-07-26
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -20.0605307
+- **lon:** -43.9851231
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **shop:** alcohol
+- **survey:date:** 2025-07-26
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13025922164) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13025922164) 
+

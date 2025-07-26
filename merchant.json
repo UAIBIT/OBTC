@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-26T03:43:14Z",
-    "timestamp_areas_base": "2025-07-25T22:37:10Z",
+    "timestamp_osm_base": "2025-07-26T04:23:38Z",
+    "timestamp_areas_base": "2025-07-25T22:52:18Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -878,6 +878,37 @@
     "phone": "+55 49-999158181",
     "shop": "other",
     "survey:date": "2025-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 13025922164,
+  "lat": -20.0605826,
+  "lon": -43.9847971,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Nova Lima - MG",
+    "addr:housenumber": "1450",
+    "addr:postcode": "34007-634",
+    "addr:street": "Avenida Quebec",
+    "addr:suburb": "Jardim Canada",
+    "amenity": "bar",
+    "check_date": "2025-07-26",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-20.0605307",
+    "lon": "-43.9851231",
+    "name": "Experimente Projetos Gastronomicos",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "shop": "alcohol",
+    "survey:date": "2025-07-26"
   }
 }
 

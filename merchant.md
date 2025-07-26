@@ -800,3 +800,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13025922164) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13025922164) 
 
+## RF Engenharia
+**Type:** node
+**ID:** 13026574713
+**Coordinates:** -17.0845787, -40.9344764
+**Address:** Avenida Belo Horizonte, 4, Centro, Águas Formosas - MG, 39.880-000
+**Details:**
+- **CBTC:** FormosaBitcoin
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-26
+- **contact:instagram:** https://www.instagram.com/rf_engenharia86
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -17.0848573
+- **lon:** -40.9354264
+- **office:** engineer
+- **opening_hours:** Mo-Su 9:00-19:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 99204 5889
+- **survey:date:** 2025-07-26
+- **website:** https://www.instagram.com/rf_engenharia86
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13026574713) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13026574713) 
+

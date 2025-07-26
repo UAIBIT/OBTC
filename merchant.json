@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-26T11:57:16Z",
-    "timestamp_areas_base": "2025-07-26T09:30:54Z",
+    "timestamp_osm_base": "2025-07-26T12:55:15Z",
+    "timestamp_areas_base": "2025-07-26T09:35:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -909,6 +909,40 @@
     "payment:onchain": "yes",
     "shop": "alcohol",
     "survey:date": "2025-07-26"
+  }
+},
+{
+  "type": "node",
+  "id": 13026574713,
+  "lat": -17.0845787,
+  "lon": -40.9344764,
+  "tags": {
+    "CBTC": "FormosaBitcoin",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Águas Formosas - MG",
+    "addr:housenumber": "4",
+    "addr:postcode": "39.880-000",
+    "addr:street": "Avenida Belo Horizonte",
+    "addr:suburb": "Centro",
+    "check_date": "2025-07-26",
+    "contact:instagram": "https://www.instagram.com/rf_engenharia86",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-17.0848573",
+    "lon": "-40.9354264",
+    "name": "RF Engenharia",
+    "office": "engineer",
+    "opening_hours": "Mo-Su 9:00-19:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 99204 5889",
+    "survey:date": "2025-07-26",
+    "website": "https://www.instagram.com/rf_engenharia86"
   }
 }
 

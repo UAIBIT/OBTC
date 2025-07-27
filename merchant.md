@@ -830,3 +830,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13026574713) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13026574713) 
 
+## Infocenter Informática
+**Type:** node
+**ID:** 13030218803
+**Coordinates:** -27.0904183, -52.5869028
+**Address:** Rua Júlio Antônio Gasparetto, 250, Bairro paraiso, Chapeco, 89806-265
+**Details:**
+- **CBTC:** Bitcoin Chapecó
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-27
+- **contact:instagram:** https://www.instagram.com/seco_minusculli?igsh=YW9hd3AzM2Q5cGk1
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Serviços de TI,  Servidores Linux/ Windows
+- **lat:** -27.1110472
+- **lon:** -52.5958977
+- **opening_hours:** segunda a sexta das 09:00 as 17:30
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 49 988438185
+- **shop:** computer
+- **survey:date:** 2025-07-27
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13030218803) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13030218803) 
+

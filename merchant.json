@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-27T22:29:20Z",
-    "timestamp_areas_base": "2025-07-27T17:57:11Z",
+    "timestamp_osm_base": "2025-07-27T22:50:06Z",
+    "timestamp_areas_base": "2025-07-27T18:19:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -976,6 +976,39 @@
     "payment:onchain": "yes",
     "phone": "+55 49 988438185",
     "shop": "computer",
+    "survey:date": "2025-07-27"
+  }
+},
+{
+  "type": "node",
+  "id": 13030526296,
+  "lat": -27.0923538,
+  "lon": -52.6029037,
+  "tags": {
+    "CBTC": "Bitcoin Chapecó",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Chapeco",
+    "addr:housenumber": "1426",
+    "addr:postcode": "89801-142",
+    "addr:street": "Rua: sete de setembro",
+    "addr:suburb": "Presidente medice",
+    "check_date": "2025-07-27",
+    "contact:instagram": "https://www.instagram.com/gestoraempresarial_?igsh=MTFreXJ4aTg4aXBrNQ==",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Intermediadora de negócios, consultorias, desenvolvimento de Software.",
+    "lat": "-19.8430171",
+    "lon": "-43.9191272",
+    "name": "Gestora consultoria planegamento e estrategias",
+    "opening_hours": "segunda a sexta das 09:00 as 17:30",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "55 49 984100707",
     "survey:date": "2025-07-27"
   }
 }

@@ -889,3 +889,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13030526296) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13030526296) 
 
+## ODONTOLOGIA AVANÇADA
+**Type:** node
+**ID:** 13031733837
+**Coordinates:** -27.1084827, -52.6159224
+**Address:** Rua: uruguai, 235 D, Centro, Chapeco, 89802-500
+**Details:**
+- **CBTC:** Bitcoin Chapecó
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** dentist
+- **check_date:** 2025-07-28
+- **contact:instagram:** https://www.instagram.com/draelianeturato?igsh=MXg2NzAxeHE0MG8xbQ==
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** CONSULTORIO ODONTOLOGICO,ODONTOLOGIA CIENTIFICA E AVANÇADA
+- **lat:** -27.1110472
+- **lon:** -52.5958977
+- **opening_hours:** segunda a sexta das 09:00 as 17:30
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** 55 49 984100707
+- **survey:date:** 2025-07-28
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13031733837) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13031733837) 
+

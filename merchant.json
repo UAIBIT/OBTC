@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-28T14:15:38Z",
-    "timestamp_areas_base": "2025-07-28T10:01:00Z",
+    "timestamp_osm_base": "2025-07-28T14:44:01Z",
+    "timestamp_areas_base": "2025-07-28T10:38:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1010,6 +1010,40 @@
     "payment:onchain": "yes",
     "phone": "55 49 984100707",
     "survey:date": "2025-07-27"
+  }
+},
+{
+  "type": "node",
+  "id": 13031733837,
+  "lat": -27.1084827,
+  "lon": -52.6159224,
+  "tags": {
+    "CBTC": "Bitcoin Chapecó",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Chapeco",
+    "addr:housenumber": "235 D",
+    "addr:postcode": "89802-500",
+    "addr:street": "Rua: uruguai",
+    "addr:suburb": "Centro",
+    "amenity": "dentist",
+    "check_date": "2025-07-28",
+    "contact:instagram": "https://www.instagram.com/draelianeturato?igsh=MXg2NzAxeHE0MG8xbQ==",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "CONSULTORIO ODONTOLOGICO,ODONTOLOGIA CIENTIFICA E AVANÇADA",
+    "lat": "-27.1110472",
+    "lon": "-52.5958977",
+    "name": "ODONTOLOGIA AVANÇADA",
+    "opening_hours": "segunda a sexta das 09:00 as 17:30",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "55 49 984100707",
+    "survey:date": "2025-07-28"
   }
 }
 

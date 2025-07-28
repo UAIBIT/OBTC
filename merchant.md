@@ -860,11 +860,11 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13030218803) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13030218803) 
 
-## Gestora consultoria planegamento e estrategias
+## Gestora consultoria planejamento e estrategias
 **Type:** node
 **ID:** 13030526296
 **Coordinates:** -27.0923538, -52.6029037
-**Address:** Rua: sete de setembro, 1426, Presidente medice, Chapeco, 89801-142
+**Address:** Rua: sete de setembro, 1426 D, Bairro Presidentre medice, Chapeco, 89801-142
 **Details:**
 - **CBTC:** Bitcoin Chapecó
 - **OBTC:** UAIBIT
@@ -874,8 +874,8 @@
 - **currency:BRL:** yes
 - **currency:XBT:** yes
 - **description:** Intermediadora de negócios, consultorias, desenvolvimento de Software.
-- **lat:** -19.8430171
-- **lon:** -43.9191272
+- **lat:** -27.1110472
+- **lon:** -52.5958977
 - **opening_hours:** segunda a sexta das 09:00 as 17:30
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes

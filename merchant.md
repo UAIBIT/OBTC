@@ -919,3 +919,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13031733837) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13031733837) 
 
+## Flex car auto mecânica
+**Type:** node
+**ID:** 13032063649
+**Coordinates:** -27.0867848, -52.6107749
+**Address:** Rua João Batista zeca 44D(servidão, 44 D, Passo dos fortes, Chapeco, 89804-055
+**Details:**
+- **CBTC:** BitcoinChapeco
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-07-28
+- **contact:instagram:** https://www.instagram.com/flexcarmecanica?igsh=MXhqcXZkdTdqeW1iZA==
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Auto mecânica, consertos de automoveis gerais.
+- **lat:** -27.1110472
+- **lon:** -52.5958977
+- **opening_hours:** segunda a sexta das 09:00 as 18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** 55 49 988009393
+- **shop:** car
+- **survey:date:** 2025-07-28
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13032063649) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13032063649) 
+

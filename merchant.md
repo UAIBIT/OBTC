@@ -959,7 +959,7 @@
 - **CBTC:** Bitcoin Chapeco
 - **OBTC:** UAIBIT
 - **access:** yes
-- **amenity:** training
+- **amenity:** financeiro
 - **check_date:** 2025-07-29
 - **contact:instagram:** https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1
 - **currency:BRL:** yes

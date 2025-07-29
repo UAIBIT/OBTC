@@ -953,13 +953,13 @@
 ## Tia Ryca
 **Type:** node
 **ID:** 13034900647
-**Coordinates:** -27.0782482, -52.6170721
+**Coordinates:** -27.0781273, -52.6204826
 **Address:** Rua Peru, 113 D, Bairro: Líder, Chapecó, 89.805-180
 **Details:**
 - **CBTC:** Bitcoin Chapeco
 - **OBTC:** UAIBIT
 - **access:** yes
-- **amenity:** financeiro
+- **amenity:** Escola
 - **check_date:** 2025-07-29
 - **contact:instagram:** https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1
 - **currency:BRL:** yes

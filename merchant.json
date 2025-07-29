@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-29T21:43:00Z",
-    "timestamp_areas_base": "2025-07-29T19:18:00Z",
+    "timestamp_osm_base": "2025-07-29T21:56:15Z",
+    "timestamp_areas_base": "2025-07-29T14:27:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1084,8 +1084,8 @@
 {
   "type": "node",
   "id": 13034900647,
-  "lat": -27.0782482,
-  "lon": -52.6170721,
+  "lat": -27.0781273,
+  "lon": -52.6204826,
   "tags": {
     "CBTC": "Bitcoin Chapeco",
     "OBTC": "UAIBIT",
@@ -1095,7 +1095,7 @@
     "addr:postcode": "89.805-180",
     "addr:street": "Rua Peru",
     "addr:suburb": "Bairro: Líder",
-    "amenity": "financeiro",
+    "amenity": "Escola",
     "check_date": "2025-07-29",
     "contact:instagram": "https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1",
     "currency:BRL": "yes",

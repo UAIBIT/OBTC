@@ -638,7 +638,7 @@
 - **currency:BRL:** yes
 - **currency:XBT:** yes
 - **description:** Responsável: Lincoln
-- **fjj:** true
+- **fjj:** yes
 - **lat:** -3.7505957
 - **lon:** -38.5016245
 - **payment:apple_pay:** yes

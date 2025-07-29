@@ -950,3 +950,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13032063649) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13032063649) 
 
+## Tia Ryca
+**Type:** node
+**ID:** 13034900647
+**Coordinates:** -27.0782482, -52.6170721
+**Address:** Rua Peru, 113 D, Bairro: Líder, Chapecó, 89.805-180
+**Details:**
+- **CBTC:** Bitcoin Chapeco
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** training
+- **check_date:** 2025-07-29
+- **contact:instagram:** https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Educação Financeira
+- **lat:** -27.1110472
+- **lon:** -52.5958977
+- **opening_hours:** segunda a sexta das 09:00 as 18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** 55 49 984342828
+- **survey:date:** 2025-07-29
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13034900647) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13034900647) 
+

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-29T19:43:23Z",
+    "timestamp_osm_base": "2025-07-29T19:56:44Z",
     "timestamp_areas_base": "2025-07-29T14:27:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1079,6 +1079,40 @@
     "phone": "55 49 988009393",
     "shop": "car",
     "survey:date": "2025-07-28"
+  }
+},
+{
+  "type": "node",
+  "id": 13034900647,
+  "lat": -27.0782482,
+  "lon": -52.6170721,
+  "tags": {
+    "CBTC": "Bitcoin Chapeco",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Chapecó",
+    "addr:housenumber": "113 D",
+    "addr:postcode": "89.805-180",
+    "addr:street": "Rua Peru",
+    "addr:suburb": "Bairro: Líder",
+    "amenity": "training",
+    "check_date": "2025-07-29",
+    "contact:instagram": "https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Educação Financeira",
+    "lat": "-27.1110472",
+    "lon": "-52.5958977",
+    "name": "Tia Ryca",
+    "opening_hours": "segunda a sexta das 09:00 as 18:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "55 49 984342828",
+    "survey:date": "2025-07-29"
   }
 }
 

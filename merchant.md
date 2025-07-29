@@ -623,7 +623,7 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12966703441) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12966703441) 
 
-## Graice Barra Humaitá
+## Graice Humaitá
 **Type:** node
 **ID:** 12987697461
 **Coordinates:** -3.7505625, -38.5015637
@@ -638,6 +638,7 @@
 - **currency:BRL:** yes
 - **currency:XBT:** yes
 - **description:** Responsável: Lincoln
+- **fjj:** true
 - **lat:** -3.7505957
 - **lon:** -38.5016245
 - **payment:apple_pay:** yes

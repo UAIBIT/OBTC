@@ -846,7 +846,8 @@
 - **description:** Intermediadora de negócios, consultorias, desenvolvimento de Software.
 - **lat:** -27.1110472
 - **lon:** -52.5958977
-- **opening_hours:** segunda a sexta das 09:00 as 17:30
+- **office:** financial_advisor
+- **opening_hours:** Mo-Fr 09:00-17:30
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -928,7 +929,6 @@
 - **CBTC:** Bitcoin Chapeco
 - **OBTC:** UAIBIT
 - **access:** yes
-- **amenity:** Escola
 - **check_date:** 2025-07-29
 - **contact:instagram:** https://www.instagram.com/tiaryca.oficial?igsh=ZGZqZXVqcDBrNWJ1
 - **currency:BRL:** yes
@@ -936,7 +936,8 @@
 - **description:** Educação Financeira
 - **lat:** -27.1110472
 - **lon:** -52.5958977
-- **opening_hours:** segunda a sexta das 09:00 as 18:00
+- **office:** educational_institution
+- **opening_hours:** Mo-Sa 09:00-18:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

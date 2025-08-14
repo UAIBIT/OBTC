@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-14T18:39:30Z",
-    "timestamp_areas_base": "2025-08-14T12:08:00Z",
+    "timestamp_osm_base": "2025-08-14T18:58:59Z",
+    "timestamp_areas_base": "2025-08-14T16:27:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1079,6 +1079,41 @@
     "payment:onchain": "yes",
     "phone": "55 49 984342828",
     "survey:date": "2025-07-29"
+  }
+},
+{
+  "type": "node",
+  "id": 13071335479,
+  "lat": -8.0868021,
+  "lon": -34.8936295,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Recife - PE",
+    "addr:housenumber": "251 -1052",
+    "addr:postcode": "51110-150",
+    "addr:street": "Avenida República do Líbano",
+    "addr:suburb": "Pina",
+    "check_date": "2025-08-14",
+    "contact:instagram": "https://www.instagram.com/soffperfumes/",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Shopping Riomar",
+    "lat": "-8.0862746",
+    "lon": "-34.8935974",
+    "name": "Soff perfumes",
+    "opening_hours": "Mon-Sat 9:00-2200 Sun 12:00-2100",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "081 3031 9240",
+    "shop": "convenience",
+    "survey:date": "2025-08-14",
+    "website": "http://www.soff.com.br/"
   }
 }
 

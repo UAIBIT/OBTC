@@ -950,3 +950,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13034900647) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13034900647) 
 
+## Soff perfumes
+**Type:** node
+**ID:** 13071335479
+**Coordinates:** -8.0868021, -34.8936295
+**Address:** Avenida República do Líbano, 251 -1052, Pina, Recife - PE, 51110-150
+**Details:**
+- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-08-14
+- **contact:instagram:** https://www.instagram.com/soffperfumes/
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Shopping Riomar
+- **lat:** -8.0862746
+- **lon:** -34.8935974
+- **opening_hours:** Mon-Sat 9:00-2200 Sun 12:00-2100
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** 081 3031 9240
+- **shop:** convenience
+- **survey:date:** 2025-08-14
+- **website:** http://www.soff.com.br/
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13071335479) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13071335479) 
+

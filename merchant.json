@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-14T18:58:59Z",
-    "timestamp_areas_base": "2025-08-14T16:27:30Z",
+    "timestamp_osm_base": "2025-08-14T19:22:36Z",
+    "timestamp_areas_base": "2025-08-14T12:08:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1114,6 +1114,42 @@
     "shop": "convenience",
     "survey:date": "2025-08-14",
     "website": "http://www.soff.com.br/"
+  }
+},
+{
+  "type": "node",
+  "id": 13071366175,
+  "lat": -19.7975111,
+  "lon": -43.9901462,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Belo Horizonte",
+    "addr:housenumber": "475",
+    "addr:postcode": "31680320",
+    "addr:street": "Rua das chácaras",
+    "addr:suburb": "Mantiqueira",
+    "check_date": "2025-08-14",
+    "contact:instagram": "https://www.instagram.com/barbearia_stonks",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Barbershop",
+    "hairdresser": "barber",
+    "lat": "-19.7978551",
+    "lon": "-43.9902205",
+    "name": "Stonk's Barbearia",
+    "opening_hours": "Mo-Su 9:00-20:00 Sat 8:00-18:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 99420 6373",
+    "shop": "hairdresser",
+    "survey:date": "2025-08-14",
+    "website": "https://www.app.frizzar.com.br/p/barbeariastonks"
   }
 }
 

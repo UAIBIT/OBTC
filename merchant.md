@@ -981,3 +981,35 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13071335479) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13071335479) 
 
+## Stonk's Barbearia
+**Type:** node
+**ID:** 13071366175
+**Coordinates:** -19.7975111, -43.9901462
+**Address:** Rua das chácaras, 475, Mantiqueira, Belo Horizonte, 31680320
+**Details:**
+- **CBTC:** UAIBIT
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-08-14
+- **contact:instagram:** https://www.instagram.com/barbearia_stonks
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Barbershop
+- **hairdresser:** barber
+- **lat:** -19.7978551
+- **lon:** -43.9902205
+- **opening_hours:** Mo-Su 9:00-20:00 Sat 8:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 99420 6373
+- **shop:** hairdresser
+- **survey:date:** 2025-08-14
+- **website:** https://www.app.frizzar.com.br/p/barbeariastonks
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13071366175) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13071366175) 
+

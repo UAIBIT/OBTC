@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-15T22:49:27Z",
+    "timestamp_osm_base": "2025-08-15T23:13:59Z",
     "timestamp_areas_base": "2025-08-15T20:05:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1150,6 +1150,40 @@
     "shop": "hairdresser",
     "survey:date": "2025-08-14",
     "website": "https://www.app.frizzar.com.br/p/barbeariastonks"
+  }
+},
+{
+  "type": "node",
+  "id": 13073334820,
+  "lat": -19.9347128,
+  "lon": -44.0994259,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Betim",
+    "addr:housenumber": "67",
+    "addr:postcode": "32678-508",
+    "addr:street": "Rua Itambacury",
+    "addr:suburb": "Capelinha",
+    "amenity": "bar",
+    "check_date": "2025-08-15",
+    "contact:instagram": "https://www.instagram.com/tidas_bar",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-19.9347444",
+    "lon": "-44.0994175",
+    "name": "Tildas Bar",
+    "opening_hours": "Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 3531 8412",
+    "survey:date": "2025-08-15",
+    "website": "https://www.instagram.com/tidas_bar"
   }
 }
 

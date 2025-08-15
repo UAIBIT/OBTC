@@ -1013,3 +1013,33 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13071366175) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13071366175) 
 
+## Tildas Bar
+**Type:** node
+**ID:** 13073334820
+**Coordinates:** -19.9347128, -44.0994259
+**Address:** Rua Itambacury, 67, Capelinha, Betim, 32678-508
+**Details:**
+- **CBTC:** UAIBIT
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** bar
+- **check_date:** 2025-08-15
+- **contact:instagram:** https://www.instagram.com/tidas_bar
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -19.9347444
+- **lon:** -44.0994175
+- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 3531 8412
+- **survey:date:** 2025-08-15
+- **website:** https://www.instagram.com/tidas_bar
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073334820) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073334820) 
+

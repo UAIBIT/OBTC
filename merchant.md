@@ -1045,6 +1045,36 @@
 
 ## Tildas Bar
 **Type:** node
+**ID:** 13073310955
+**Coordinates:** -19.9516930, -44.1174588
+**Address:** Avenida Duque de Caxias, 401, Jardim Teresopolis, Betim - MG, 32681-630
+**Details:**
+- **CBTC:** UAIBIT
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-08-15
+- **contact:instagram:** https://www.instagram.com/tidas_bar
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -19.9518274
+- **lon:** -44.1173885
+- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 3531 8412
+- **shop:** alcohol
+- **survey:date:** 2025-08-15
+- **website:** https://www.instagram.com/tidas_bar
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073310955) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073310955) 
+
+## Tildas Bar
+**Type:** node
 **ID:** 13073334820
 **Coordinates:** -19.9347128, -44.0994259
 **Address:** Rua Itambacury, 67, Capelinha, Betim, 32678-508

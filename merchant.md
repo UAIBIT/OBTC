@@ -1103,3 +1103,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073334820) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073334820) 
 
+## Tildas Bar
+**Type:** node
+**ID:** 13073385898
+**Coordinates:** -20.0681321, -44.3101641
+**Address:** Avenida Professor Clóvis Salgado, 1020, Padre Eustáquio, Igarapé, 32900-000
+**Details:**
+- **CBTC:** UAIBIT
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** pub
+- **check_date:** 2025-08-15
+- **contact:instagram:** https://www.instagram.com/tidas_igarape
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -20.0680297
+- **lon:** -44.3102244
+- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 3531 8412
+- **shop:** alcohol
+- **survey:date:** 2025-08-15
+- **website:** https://www.instagram.com/tidas_igarape
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073385898) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073385898) 
+

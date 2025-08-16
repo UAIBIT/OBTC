@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-15T23:47:42Z",
+    "timestamp_osm_base": "2025-08-16T00:54:27Z",
     "timestamp_areas_base": "2025-08-15T20:05:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1252,6 +1252,41 @@
     "phone": "+55 31 3531 8412",
     "survey:date": "2025-08-15",
     "website": "https://www.instagram.com/tidas_bar"
+  }
+},
+{
+  "type": "node",
+  "id": 13073385898,
+  "lat": -20.0681321,
+  "lon": -44.3101641,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Igarapé",
+    "addr:housenumber": "1020",
+    "addr:postcode": "32900-000",
+    "addr:street": "Avenida Professor Clóvis Salgado",
+    "addr:suburb": "Padre Eustáquio",
+    "amenity": "pub",
+    "check_date": "2025-08-15",
+    "contact:instagram": "https://www.instagram.com/tidas_igarape",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-20.0680297",
+    "lon": "-44.3102244",
+    "name": "Tildas Bar",
+    "opening_hours": "Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 3531 8412",
+    "shop": "alcohol",
+    "survey:date": "2025-08-15",
+    "website": "https://www.instagram.com/tidas_igarape"
   }
 }
 

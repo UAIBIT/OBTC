@@ -43,7 +43,7 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12618816495) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12618816495) 
 
-## BRAVE MEN'S
+## Brave Men’s
 **Type:** node
 **ID:** 12644175177
 **Coordinates:** -19.7965787, -43.9898174

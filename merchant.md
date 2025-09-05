@@ -1134,3 +1134,35 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073385898) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073385898) 
 
+## Barbearia Máskara
+**Type:** node
+**ID:** 13121401892
+**Coordinates:** -19.8437664, -43.9713989
+**Address:** Avenida Portugal, 2821 - loja 6, Santa Amélia, Belo Horizonte, 31560-000
+**Details:**
+
+**PBTC:** ![PBTC](https://i.ibb.co/DPLFJ26j/MASKARA.png)- **CBTC:** BitcoinBH
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-04
+- **contact:instagram:** https://www.instagram.com/barbearia_maskara
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** O espaço do homem moderno.
+- **hairdresser:** barber
+- **lat:** -19.84362
+- **lon:** -43.97134
+- **opening_hours:** Mo-Fri 09:00 - 20:00, Sat 08:00 - 18:30
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 99999 7711
+- **shop:** hairdresser
+- **survey:date:** 2025-09-04
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13121401892) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13121401892) 
+

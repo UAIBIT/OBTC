@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-05T15:26:45Z",
+    "timestamp_osm_base": "2025-09-05T15:39:56Z",
     "timestamp_areas_base": "2025-09-05T08:47:55Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1287,6 +1287,42 @@
     "shop": "alcohol",
     "survey:date": "2025-08-15",
     "website": "https://www.instagram.com/tidas_igarape"
+  }
+},
+{
+  "type": "node",
+  "id": 13121401892,
+  "lat": -19.8437664,
+  "lon": -43.9713989,
+  "tags": {
+    "CBTC": "BitcoinBH",
+    "OBTC": "UAIBIT",
+    "PBTC": "https://i.ibb.co/DPLFJ26j/MASKARA.png",
+    "access": "yes",
+    "addr:city": "Belo Horizonte",
+    "addr:housenumber": "2821 - loja 6",
+    "addr:postcode": "31560-000",
+    "addr:street": "Avenida Portugal",
+    "addr:suburb": "Santa Amélia",
+    "check_date": "2025-09-04",
+    "contact:instagram": "https://www.instagram.com/barbearia_maskara",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "O espaço do homem moderno.",
+    "hairdresser": "barber",
+    "lat": "-19.84362",
+    "lon": "-43.97134",
+    "name": "Barbearia Máskara",
+    "opening_hours": "Mo-Fri 09:00 - 20:00, Sat 08:00 - 18:30",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 99999 7711",
+    "shop": "hairdresser",
+    "survey:date": "2025-09-04"
   }
 }
 

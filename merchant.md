@@ -122,7 +122,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.9346637
 - **lon:** -44.0990956
-- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr-Sa 07:30-00:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1077,7 +1077,7 @@
 **Type:** node
 **ID:** 13073334820
 **Coordinates:** -19.9347128, -44.0994259
-**Address:** Rua Itambacury, 67, Capelinha, Betim, 32678-508
+**Address:** Rua Itambacuri, 67, Capelinha, Betim, 32678-508
 **Details:**
 - **CBTC:** UAIBIT
 - **OBTC:** UAIBIT
@@ -1089,7 +1089,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.9347444
 - **lon:** -44.0994175
-- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr-Sa 07:30-00:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

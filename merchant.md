@@ -656,8 +656,8 @@
 ## MI Cell
 **Type:** node
 **ID:** 12990459331
-**Coordinates:** -27.0948597, -52.6167866
-**Address:** Avenida Getúlio Dorneles Vargas N, 1128, centro, chapeco, 89801-000
+**Coordinates:** -27.1059472, -52.6449616
+**Address:** mascarenhas de moraes 1453, 1128, parque das palmeiras, chapeco, 89803-600
 **Details:**
 - **CBTC:** BitcoinChapeco
 - **OBTC:** UAIBIT

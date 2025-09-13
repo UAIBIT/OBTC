@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-13T20:40:29Z",
-    "timestamp_areas_base": "2025-09-13T15:14:03Z",
+    "timestamp_osm_base": "2025-09-13T20:53:45Z",
+    "timestamp_areas_base": "2025-09-13T14:53:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -747,17 +747,17 @@
 {
   "type": "node",
   "id": 12990459331,
-  "lat": -27.0948597,
-  "lon": -52.6167866,
+  "lat": -27.1059472,
+  "lon": -52.6449616,
   "tags": {
     "CBTC": "BitcoinChapeco",
     "OBTC": "UAIBIT",
     "access": "yes",
     "addr:city": "chapeco",
     "addr:housenumber": "1128",
-    "addr:postcode": "89801-000",
-    "addr:street": "Avenida Getúlio Dorneles Vargas N",
-    "addr:suburb": "centro",
+    "addr:postcode": "89803-600",
+    "addr:street": "mascarenhas de moraes 1453",
+    "addr:suburb": "parque das palmeiras",
     "check_date": "2025-07-08",
     "contact:instagram": "https://www.instagram.com/micell.cco?igsh=b3Mycmc5YXZmeW9x",
     "currency:BRL": "yes",

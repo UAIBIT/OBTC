@@ -1134,11 +1134,11 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073385898) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073385898) 
 
-## DJV SOLUÇÕES EM MADEIRAS
+## DJV Soluções Em Madeiras
 **Type:** node
 **ID:** 13144477222
 **Coordinates:** -26.8936739, -52.9301128
-**Address:** BR 282 Linha são josé SN interior, SN, INTERIOR, NOVA ERECHIN SC, 89865-000
+**Address:** BR 282 Linha são josé SN interior, SN, Interior, Nova Erechin Sc, 89865-000
 **Details:**
 - **CBTC:** BitcoinChapeco
 - **HBTC:** 50fb26e176db570353e668bd930091418edb00733f978f64a2d7bfc40e80319f
@@ -1159,7 +1159,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 55 49998028829
+- **phone:** +55 49998028829
 - **shop:** other
 - **survey:date:** 2025-09-13
 

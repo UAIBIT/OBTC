@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-15T13:29:45Z",
+    "timestamp_osm_base": "2025-09-15T13:45:00Z",
     "timestamp_areas_base": "2025-09-15T09:32:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1299,11 +1299,11 @@
     "HBTC": "50fb26e176db570353e668bd930091418edb00733f978f64a2d7bfc40e80319f",
     "OBTC": "UAIBIT",
     "access": "yes",
-    "addr:city": "NOVA ERECHIN SC",
+    "addr:city": "Nova Erechin Sc",
     "addr:housenumber": "SN",
     "addr:postcode": "89865-000",
     "addr:street": "BR 282 Linha são josé SN interior",
-    "addr:suburb": "INTERIOR",
+    "addr:suburb": "Interior",
     "check_date": "2025-09-13",
     "contact:instagram": "https://www.instagram.com/djvsolucoesemmadeiras?igsh=MW56YWl6M2ZicTlxbw==",
     "currency:BRL": "yes",
@@ -1312,7 +1312,7 @@
     "lat": "-26.8935922",
     "lon": "-52.9327479",
     "man_made": "works",
-    "name": "DJV SOLUÇÕES EM MADEIRAS",
+    "name": "DJV Soluções Em Madeiras",
     "opening_hours": "segunda a sexta das 09:00 as 18:00",
     "payment:apple_pay": "yes",
     "payment:credit_cards": "yes",
@@ -1320,7 +1320,7 @@
     "payment:lightning": "yes",
     "payment:lightning_contactless": "yes",
     "payment:onchain": "yes",
-    "phone": "55 49998028829",
+    "phone": "+55 49998028829",
     "shop": "other",
     "survey:date": "2025-09-13"
   }

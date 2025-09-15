@@ -1134,3 +1134,35 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13073385898) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13073385898) 
 
+## DJV SOLUÇÕES EM MADEIRAS
+**Type:** node
+**ID:** 13144477222
+**Coordinates:** -26.8936739, -52.9301128
+**Address:** BR 282 Linha são josé SN interior, SN, INTERIOR, NOVA ERECHIN SC, 89865-000
+**Details:**
+- **CBTC:** BitcoinChapeco
+- **HBTC:** 50fb26e176db570353e668bd930091418edb00733f978f64a2d7bfc40e80319f
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-13
+- **contact:instagram:** https://www.instagram.com/djvsolucoesemmadeiras?igsh=MW56YWl6M2ZicTlxbw==
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Deck pergolado playgraund espaço pet, mobiliario urbano e manutenções.
+- **lat:** -26.8935922
+- **lon:** -52.9327479
+- **man_made:** works
+- **opening_hours:** segunda a sexta das 09:00 as 18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** 55 49998028829
+- **shop:** other
+- **survey:date:** 2025-09-13
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13144477222) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13144477222) 
+

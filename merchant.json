@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-16T15:56:00Z",
-    "timestamp_areas_base": "2025-09-16T13:44:11Z",
+    "timestamp_osm_base": "2025-09-16T17:10:15Z",
+    "timestamp_areas_base": "2025-09-16T11:42:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1323,6 +1323,41 @@
     "phone": "+55 49998028829",
     "shop": "other",
     "survey:date": "2025-09-13"
+  }
+},
+{
+  "type": "node",
+  "id": 13147741934,
+  "lat": -19.4700350,
+  "lon": -42.5582996,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "HBTC": "ee13be443bc025b291bb6aace70d4aa3d103961e870973d4d4884fbc8dec6fc9",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Cidade Nobre, Ipatinga - MG",
+    "addr:housenumber": "34",
+    "addr:postcode": "35162-363",
+    "addr:street": "R. Cristóvão Colombo",
+    "addr:suburb": "Cidade Nobre",
+    "check_date": "2025-09-16",
+    "contact:instagram": "https://www.instagram.com/cadilac_estetica_automotiva",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-19.4702803",
+    "lon": "-42.5590773",
+    "name": "Cadilac Estética Automotiva",
+    "opening_hours": "Mon-fri 8:00-18:00 Sat 8:00-14:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+55 31 97143 9152",
+    "shop": "car",
+    "survey:date": "2025-09-16",
+    "website": "https://www.instagram.com/cadilac_estetica_automotiva"
   }
 }
 

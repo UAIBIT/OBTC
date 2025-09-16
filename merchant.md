@@ -1166,3 +1166,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13144477222) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13144477222) 
 
+## Cadilac Estética Automotiva
+**Type:** node
+**ID:** 13147741934
+**Coordinates:** -19.4700350, -42.5582996
+**Address:** R. Cristóvão Colombo, 34, Cidade Nobre, Cidade Nobre, Ipatinga - MG, 35162-363
+**Details:**
+- **CBTC:** UAIBIT
+- **HBTC:** ee13be443bc025b291bb6aace70d4aa3d103961e870973d4d4884fbc8dec6fc9
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-16
+- **contact:instagram:** https://www.instagram.com/cadilac_estetica_automotiva
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -19.4702803
+- **lon:** -42.5590773
+- **opening_hours:** Mon-fri 8:00-18:00 Sat 8:00-14:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 97143 9152
+- **shop:** car
+- **survey:date:** 2025-09-16
+- **website:** https://www.instagram.com/cadilac_estetica_automotiva
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13147741934) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13147741934) 
+

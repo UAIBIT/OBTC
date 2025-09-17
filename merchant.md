@@ -1197,3 +1197,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13147741934) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13147741934) 
 
+## Priori Conceito
+**Type:** node
+**ID:** 13151062532
+**Coordinates:** -19.6285033, -43.8890286
+**Address:** Av. Getúlio Vargas, 6.130, Várzea, Lagoa Santa - MG, 33233-024
+**Details:**
+- **CBTC:** LagoaBitcoin
+- **HBTC:** bc62d13a62c1d180e927d6bf78a88df3b89711aa4fd2c4872d19a7032cad9efd
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-17
+- **contact:instagram:** https://www.instagram.com/priorimasculina
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -19.6284955
+- **lon:** -43.8893623
+- **opening_hours:** Tue-Sat 9:00-20:00 Sun 9:00-15:00 Mon 9:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 98807 8302
+- **shop:** clothes
+- **survey:date:** 2025-09-17
+- **website:** https://www.instagram.com/priorimasculina
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13151062532) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13151062532) 
+

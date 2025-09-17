@@ -1228,3 +1228,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13151062532) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13151062532) 
 
+## Priori Conceito
+**Type:** node
+**ID:** 13151183327
+**Coordinates:** -19.6281253, -43.8960570
+**Address:** Rua Acadêmico Nilo Figueiredo, 152, Miguel A Salomão, Lagoa Santa, MG, 33230-058
+**Details:**
+- **CBTC:** LagoaBitcoin
+- **HBTC:** 61eef4168bbd9fda88841df512732032442515942a266944b5cc5d3b554da117
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-17
+- **contact:instagram:** https://www.instagram.com/priorimasculina
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -19.6281032
+- **lon:** -43.8962328
+- **opening_hours:** Tue-Sat 9:00-20:00 Sun 9:00-15:00 Mon 9:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 31 98807 8302
+- **shop:** clothes
+- **survey:date:** 2025-09-17
+- **website:** https://www.instagram.com/priorimasculina
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13151183327) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13151183327) 
+

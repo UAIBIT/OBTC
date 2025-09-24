@@ -1259,3 +1259,66 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13151183327) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13151183327) 
 
+## Tókio gastronomia
+**Type:** node
+**ID:** 13166721789
+**Coordinates:** -10.0062294, -67.8026385
+**Address:** Via Chico Mendes, 3509, Areal, Rio Branco, Acre, 69906-119
+**Details:**
+
+**PBTC:** ![PBTC](https://www.menuchef.com.br/api/uploads/stores/27e079bf-0bf6-40ac-8fda-382cf2ee4c22.jpeg)- **CBTC:** BitcoinBH
+- **HBTC:** dad1b330b2ccda97308c4c4e131a086caded972d36c852ae9c94f42a0b59c4ba
+- **OBTC:** UAIBIT
+- **access:** yes
+- **amenity:** restaurant
+- **check_date:** 2025-09-23
+- **contact:instagram:** https://www.instagram.com/tokiogastronomia/
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Restaurante japonês
+- **lat:** -10.0063533
+- **lon:** -67.8027694
+- **opening_hours:** Tu-Su 18:00-23:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 68  99221 7235
+- **shop:** food
+- **survey:date:** 2025-09-23
+- **website:** https://menuchef.com.br/store/tokiogastronomia
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13166721789) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13166721789) 
+
+## Alex móveis Planejados
+**Type:** node
+**ID:** 13166753986
+**Coordinates:** -9.9814767, -67.8158354
+**Address:** Av Uirapuru, 845, Cidade Nova, Rio Branco - AC, 69905-462
+**Details:**
+- **CBTC:** BitcoinBH
+- **HBTC:** 6ba064c4f84f5422e5f5c6c4d24f5459f1d600dcec61c5a8bf0a907d22659e7c
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-23
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -9.981473
+- **lon:** -67.815882
+- **opening_hours:** Mo-Fr 9:00-18:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +55 68 3224 5127
+- **shop:** furniture
+- **survey:date:** 2025-09-23
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13166753986) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13166753986) 
+

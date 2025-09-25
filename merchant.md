@@ -1315,7 +1315,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** +55 68 3224 5127
+- **phone:** +55 68 99937 6815
 - **shop:** furniture
 - **survey:date:** 2025-09-23
 

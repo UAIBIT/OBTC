@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-25T20:40:37Z",
+    "timestamp_osm_base": "2025-09-25T20:53:59Z",
     "timestamp_areas_base": "2025-09-25T15:07:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1496,7 +1496,7 @@
     "payment:lightning": "yes",
     "payment:lightning_contactless": "yes",
     "payment:onchain": "yes",
-    "phone": "+55 68 3224 5127",
+    "phone": "+55 68 99937 6815",
     "shop": "furniture",
     "survey:date": "2025-09-23"
   }

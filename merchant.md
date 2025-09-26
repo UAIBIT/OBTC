@@ -1322,3 +1322,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13166753986) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13166753986) 
 
+## Bizurado Coldres
+**Type:** node
+**ID:** 13171862271
+**Coordinates:** -9.9693020, -67.8095222
+**Address:** Rua Marechal Deodoro, 881, Ipase, Rio Branco, 69900-333
+**Details:**
+- **CBTC:** UAIBIT
+- **HBTC:** 6cefa976aa2c8b86e88b8b610504016fd2c14331c7fa6c828e5ce15ce07aa2f1
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-09-24
+- **contact:instagram:** https://www.instagram.com/bizuradocoldres
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** Vendas de artigos para policiais
+- **lat:** -19.8430171
+- **lon:** -43.9191272
+- **opening_hours:** segunda a sexta feira 8h às 17h
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +5568999388686
+- **shop:** other
+- **survey:date:** 2025-09-24
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13171862271) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13171862271) 
+

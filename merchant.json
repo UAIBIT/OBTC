@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-26T15:41:59Z",
-    "timestamp_areas_base": "2025-09-26T08:29:43Z",
+    "timestamp_osm_base": "2025-09-26T16:30:30Z",
+    "timestamp_areas_base": "2025-09-26T11:43:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1499,6 +1499,41 @@
     "phone": "+55 68 99937 6815",
     "shop": "furniture",
     "survey:date": "2025-09-23"
+  }
+},
+{
+  "type": "node",
+  "id": 13171862271,
+  "lat": -9.9693020,
+  "lon": -67.8095222,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "HBTC": "6cefa976aa2c8b86e88b8b610504016fd2c14331c7fa6c828e5ce15ce07aa2f1",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Rio Branco",
+    "addr:housenumber": "881",
+    "addr:postcode": "69900-333",
+    "addr:street": "Rua Marechal Deodoro",
+    "addr:suburb": "Ipase",
+    "check_date": "2025-09-24",
+    "contact:instagram": "https://www.instagram.com/bizuradocoldres",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "Vendas de artigos para policiais",
+    "lat": "-19.8430171",
+    "lon": "-43.9191272",
+    "name": "Bizurado Coldres",
+    "opening_hours": "segunda a sexta feira 8h às 17h",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+5568999388686",
+    "shop": "other",
+    "survey:date": "2025-09-24"
   }
 }
 

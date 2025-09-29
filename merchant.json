@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-29T11:53:15Z",
-    "timestamp_areas_base": "2025-09-29T05:01:08Z",
+    "timestamp_osm_base": "2025-09-29T12:50:32Z",
+    "timestamp_areas_base": "2025-09-29T10:04:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1428,44 +1428,6 @@
     "shop": "clothes",
     "survey:date": "2025-09-17",
     "website": "https://www.instagram.com/priorimasculina"
-  }
-},
-{
-  "type": "node",
-  "id": 13166721789,
-  "lat": -10.0062294,
-  "lon": -67.8026385,
-  "tags": {
-    "CBTC": "BitcoinBH",
-    "HBTC": "dad1b330b2ccda97308c4c4e131a086caded972d36c852ae9c94f42a0b59c4ba",
-    "OBTC": "UAIBIT",
-    "PBTC": "https://www.menuchef.com.br/api/uploads/stores/27e079bf-0bf6-40ac-8fda-382cf2ee4c22.jpeg",
-    "access": "yes",
-    "addr:city": "Rio Branco, Acre",
-    "addr:housenumber": "3509",
-    "addr:postcode": "69906-119",
-    "addr:street": "Via Chico Mendes",
-    "addr:suburb": "Areal",
-    "amenity": "restaurant",
-    "check_date": "2025-09-23",
-    "contact:instagram": "https://www.instagram.com/tokiogastronomia/",
-    "currency:BRL": "yes",
-    "currency:XBT": "yes",
-    "description": "Restaurante japonês",
-    "lat": "-10.0063533",
-    "lon": "-67.8027694",
-    "name": "Tókio gastronomia",
-    "opening_hours": "Tu-Su 18:00-23:00",
-    "payment:apple_pay": "yes",
-    "payment:credit_cards": "yes",
-    "payment:google_pay": "yes",
-    "payment:lightning": "yes",
-    "payment:lightning_contactless": "yes",
-    "payment:onchain": "yes",
-    "phone": "+55 68  99221 7235",
-    "shop": "food",
-    "survey:date": "2025-09-23",
-    "website": "https://menuchef.com.br/store/tokiogastronomia"
   }
 },
 {

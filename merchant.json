@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-19T23:54:00Z",
-    "timestamp_areas_base": "2025-10-19T19:03:15Z",
+    "timestamp_osm_base": "2025-10-20T02:06:21Z",
+    "timestamp_areas_base": "2025-10-19T22:54:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1496,6 +1496,41 @@
     "phone": "+5568999388686",
     "shop": "other",
     "survey:date": "2025-09-24"
+  }
+},
+{
+  "type": "node",
+  "id": 13244866018,
+  "lat": -22.9529117,
+  "lon": -43.6083025,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "HBTC": "493db1399a3e1fe41ea63a04f446c21bcefa12196da6e8391b204f4606aad93d",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Rio de Janeiro",
+    "addr:housenumber": "4226",
+    "addr:postcode": "23035-375",
+    "addr:street": "MAGARÇA",
+    "addr:suburb": "GUARATIBA",
+    "check_date": "2025-10-19",
+    "contact:instagram": "Www.instagram.com/bobpipocas",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "lat": "-22.9528906",
+    "lon": "-43.6082132",
+    "name": "Pipoca gourmet",
+    "opening_hours": "Mo-Su 16:00-23:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+5521994101441",
+    "shop": "food",
+    "survey:date": "2025-10-19",
+    "website": "www.instagram.com/bobpipocas"
   }
 }
 

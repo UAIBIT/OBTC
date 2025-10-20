@@ -1319,3 +1319,34 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13171862271) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13171862271) 
 
+## Pipoca gourmet
+**Type:** node
+**ID:** 13244866018
+**Coordinates:** -22.9529117, -43.6083025
+**Address:** MAGARÇA, 4226, GUARATIBA, Rio de Janeiro, 23035-375
+**Details:**
+- **CBTC:** UAIBIT
+- **HBTC:** 493db1399a3e1fe41ea63a04f446c21bcefa12196da6e8391b204f4606aad93d
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-10-19
+- **contact:instagram:** Www.instagram.com/bobpipocas
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **lat:** -22.9528906
+- **lon:** -43.6082132
+- **opening_hours:** Mo-Su 16:00-23:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +5521994101441
+- **shop:** food
+- **survey:date:** 2025-10-19
+- **website:** www.instagram.com/bobpipocas
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13244866018) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13244866018) 
+

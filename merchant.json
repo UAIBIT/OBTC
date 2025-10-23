@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-22T23:58:26Z",
+    "timestamp_osm_base": "2025-10-23T02:00:38Z",
     "timestamp_areas_base": "2025-10-22T21:50:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1531,6 +1531,43 @@
     "shop": "food",
     "survey:date": "2025-10-19",
     "website": "www.instagram.com/bobpipocas"
+  }
+},
+{
+  "type": "node",
+  "id": 13250960679,
+  "lat": -22.9434385,
+  "lon": -43.3462620,
+  "tags": {
+    "CBTC": "UAIBIT",
+    "HBTC": "2544d3110babc4cff26012d084ce4d5eecb24e01a62e9b828335f6ff0c589353",
+    "OBTC": "UAIBIT",
+    "access": "yes",
+    "addr:city": "Rio de Janeiro - RJ",
+    "addr:housenumber": "442",
+    "addr:postcode": "22760-152",
+    "addr:street": "Estr. do Gabinal",
+    "addr:suburb": "Freguesia (Jacarepaguá)",
+    "check_date": "2025-10-22",
+    "contact:instagram": "https://www.instagram.com/jpapaintball/",
+    "currency:BRL": "yes",
+    "currency:XBT": "yes",
+    "description": "O melhor Paintball de Jacarepaguá",
+    "lat": "-22.9431606",
+    "leisure": "pitch",
+    "lon": "-43.3463685",
+    "name": "Jpa Airsoft & Paintball",
+    "opening_hours": "su-mo 9:00-17:00",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:google_pay": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+5521 97178 0490",
+    "sport": "paintball",
+    "survey:date": "2025-10-22",
+    "website": "https://www.facebook.com/jpapaintball"
   }
 }
 

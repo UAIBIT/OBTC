@@ -1350,3 +1350,36 @@
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13244866018) 
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13244866018) 
 
+## Jpa Airsoft & Paintball
+**Type:** node
+**ID:** 13250960679
+**Coordinates:** -22.9434385, -43.3462620
+**Address:** Estr. do Gabinal, 442, Freguesia (Jacarepaguá), Rio de Janeiro - RJ, 22760-152
+**Details:**
+- **CBTC:** UAIBIT
+- **HBTC:** 2544d3110babc4cff26012d084ce4d5eecb24e01a62e9b828335f6ff0c589353
+- **OBTC:** UAIBIT
+- **access:** yes
+- **check_date:** 2025-10-22
+- **contact:instagram:** https://www.instagram.com/jpapaintball/
+- **currency:BRL:** yes
+- **currency:XBT:** yes
+- **description:** O melhor Paintball de Jacarepaguá
+- **lat:** -22.9431606
+- **leisure:** pitch
+- **lon:** -43.3463685
+- **opening_hours:** su-mo 9:00-17:00
+- **payment:apple_pay:** yes
+- **payment:credit_cards:** yes
+- **payment:google_pay:** yes
+- **payment:lightning:** yes
+- **payment:lightning_contactless:** yes
+- **payment:onchain:** yes
+- **phone:** +5521 97178 0490
+- **sport:** paintball
+- **survey:date:** 2025-10-22
+- **website:** https://www.facebook.com/jpapaintball
+
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13250960679) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/13250960679) 
+

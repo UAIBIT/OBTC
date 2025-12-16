@@ -1058,7 +1058,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.9518274
 - **lon:** -44.1173885
-- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 7:30-24:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1119,7 +1119,7 @@
 - **currency:XBT:** yes
 - **lat:** -20.0680297
 - **lon:** -44.3102244
-- **opening_hours:** Mon-Thu 7:30-23:00 Fri-Sat 7:30-00:00 Sun 7:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 7:30-24:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1213,7 +1213,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.6284955
 - **lon:** -43.8893623
-- **opening_hours:** Tue-Sat 9:00-20:00 Sun 9:00-15:00 Mon 9:00-18:00
+- **opening_hours:** Mo 09:00-18:00; Tu-Sa 09:00-20:00; Su 09:00-15:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1244,7 +1244,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.6281032
 - **lon:** -43.8962328
-- **opening_hours:** Tue-Sat 9:00-20:00 Sun 9:00-15:00 Mon 9:00-18:00
+- **opening_hours:** Mo 09:00-18:00; Tu-Sa 09:00-20:00; Su 09:00-15:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-18T19:21:44Z",
+    "timestamp_osm_base": "2026-01-18T20:40:15Z",
     "timestamp_areas_base": "2026-01-18T09:49:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1195,7 +1195,7 @@
     "CBTC": "UAIBIT",
     "OBTC": "UAIBIT",
     "access": "yes",
-    "addr:city": "Betim - MG",
+    "addr:city": "Betim",
     "addr:housenumber": "401",
     "addr:postcode": "32681-630",
     "addr:street": "Avenida Duque de Caxias",

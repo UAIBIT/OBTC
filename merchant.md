@@ -1047,7 +1047,7 @@
 **Type:** node
 **ID:** 13073310955
 **Coordinates:** -19.9516930, -44.1174588
-**Address:** Avenida Duque de Caxias, 401, Jardim Teresopolis, Betim - MG, 32681-630
+**Address:** Avenida Duque de Caxias, 401, Jardim Teresopolis, Betim, 32681-630
 **Details:**
 - **CBTC:** UAIBIT
 - **OBTC:** UAIBIT

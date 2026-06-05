@@ -110,7 +110,7 @@
 ## Tildas Bar
 **Type:** node
 **ID:** 12712337558
-**Coordinates:** -19.9346612, -44.0990684
+**Coordinates:** -19.9346536, -44.0991269
 **Address:** Avenida Nova York, 1284, Capelinha, Betim, 32678-620
 **Details:**
 - **CBTC:** UAIBIT

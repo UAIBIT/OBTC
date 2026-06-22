@@ -100,7 +100,7 @@
 - **payment:onchain:** yes
 - **payment:visa:** yes
 - **payment:visa_electron:** yes
-- **phone:** 37999231316
+- **phone:** +55 37 99923 1316
 - **shop:** hairdresser
 - **survey:date:** 2025-03-19
 
@@ -172,7 +172,7 @@
 - **payment:onchain:** yes
 - **payment:visa:** yes
 - **payment:visa_electron:** yes
-- **phone:** 03125762186
+- **phone:** +55 31 2576 2186
 - **survey:date:** 2025-04-08
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
@@ -233,7 +233,7 @@
 - **payment:credit_cards:** yes
 - **payment:debit_cards:** yes
 - **payment:lightning:** yes
-- **phone:** 31975244266
+- **phone:** +55 31 97524 4266
 - **survey:date:** 2025-04-15
 - **takeaway:** yes
 - **website:** https://www.instagram.com/gofit.lifestyle
@@ -262,7 +262,7 @@
 - **payment:debit_cards:** yes
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
-- **phone:** 31999996198
+- **phone:** +55 31 99999 6198
 - **survey:date:** 2025-06-25
 - **website:** https://republicacervejeira.com.br/
 
@@ -287,7 +287,7 @@
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
-- **phone:** 31994048008
+- **phone:** +55 31 99404 8008
 - **shop:** beverages
 - **survey:date:** 2025-05-19
 
@@ -676,7 +676,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** (49) 99117-4731
+- **phone:** +55 49 99117 4731
 - **shop:** mobile_phone
 - **survey:date:** 2025-07-08
 
@@ -766,7 +766,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** +55 49-999158181
+- **phone:** +55 49 99915 8181
 - **shop:** other
 - **survey:date:** 2025-07-25
 
@@ -884,7 +884,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 55 49 984100707
+- **phone:** +55 49 98410 0707
 - **survey:date:** 2025-07-27
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13030526296) 
@@ -914,7 +914,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 55 49 984100707
+- **phone:** +55 49 98410 0707
 - **survey:date:** 2025-07-28
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13031733837) 
@@ -943,7 +943,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 55 49 988009393
+- **phone:** +55 49 98800 9393
 - **shop:** car
 - **survey:date:** 2025-07-28
 
@@ -974,7 +974,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 55 49 984342828
+- **phone:** +55 49 98434 2828
 - **survey:date:** 2025-07-29
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:13034900647) 
@@ -1003,7 +1003,7 @@
 - **payment:lightning:** yes
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
-- **phone:** 081 3031 9240
+- **phone:** +55 81 3031 9240
 - **shop:** convenience
 - **survey:date:** 2025-08-14
 - **website:** http://www.soff.com.br/

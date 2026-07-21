@@ -699,7 +699,7 @@
 - **currency:XBT:** yes
 - **lat:** -3.8339022
 - **lon:** -38.5708975
-- **opening_hours:** Mo-Su 8:00-19:00
+- **opening_hours:** Mo-Su 08:00-19:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

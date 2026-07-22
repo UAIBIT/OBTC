@@ -1274,7 +1274,7 @@
 - **currency:XBT:** yes
 - **lat:** -9.981473
 - **lon:** -67.815882
-- **opening_hours:** Mo-Fr 9:00-18:00
+- **opening_hours:** Mo-Fr 09:00-18:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

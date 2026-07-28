@@ -546,7 +546,7 @@
 - **lat:** -20.0241615
 - **lon:** -44.060795
 - **man_made:** works
-- **opening_hours:** Su-Fr 7:50-17:38
+- **opening_hours:** Su-Fr 07:50-17:38
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -576,7 +576,7 @@
 - **description:** Loja de venda de embalagens
 - **lat:** -20.0241615
 - **lon:** -44.060795
-- **opening_hours:** Su-Fr 9:00-18:00
+- **opening_hours:** Su-Fr 09:00-18:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -729,7 +729,7 @@
 - **currency:XBT:** yes
 - **lat:** -17.0831967
 - **lon:** -40.9349056
-- **opening_hours:** Mo-Su 9:00-21:00
+- **opening_hours:** Mo-Su 09:00-21:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -816,7 +816,7 @@
 - **lat:** -17.0848573
 - **lon:** -40.9354264
 - **office:** engineer
-- **opening_hours:** Mo-Su 9:00-19:00
+- **opening_hours:** Mo-Su 09:00-19:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1058,7 +1058,7 @@
 - **currency:XBT:** yes
 - **lat:** -19.9518274
 - **lon:** -44.1173885
-- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 7:30-24:00; Su 07:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 07:30-24:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes
@@ -1119,7 +1119,7 @@
 - **currency:XBT:** yes
 - **lat:** -20.0680297
 - **lon:** -44.3102244
-- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 7:30-24:00; Su 07:30-22:00
+- **opening_hours:** Mo-Th 07:30-23:00; Fr,Sa 07:30-24:00; Su 07:30-22:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

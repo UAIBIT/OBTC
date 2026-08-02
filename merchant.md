@@ -1368,7 +1368,7 @@
 - **lat:** -22.9431606
 - **leisure:** pitch
 - **lon:** -43.3463685
-- **opening_hours:** su-mo 9:00-17:00
+- **opening_hours:** Su-Mo 09:00-17:00
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

@@ -907,7 +907,7 @@
 - **description:** CONSULTORIO ODONTOLOGICO,ODONTOLOGIA CIENTIFICA E AVANÇADA
 - **lat:** -27.1110472
 - **lon:** -52.5958977
-- **opening_hours:** segunda a sexta das 09:00 as 17:30
+- **opening_hours:** Mo-Fr 09:00-17:30
 - **payment:apple_pay:** yes
 - **payment:credit_cards:** yes
 - **payment:google_pay:** yes

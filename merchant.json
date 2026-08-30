@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-30T11:47:21Z",
-    "timestamp_areas_base": "2026-08-30T06:05:49Z",
+    "timestamp_osm_base": "2026-08-30T15:40:01Z",
+    "timestamp_areas_base": "2026-08-30T01:51:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1036,7 +1036,7 @@
     "lat": "-27.1110472",
     "lon": "-52.5958977",
     "name": "ODONTOLOGIA AVANÇADA",
-    "opening_hours": "segunda a sexta das 09:00 as 17:30",
+    "opening_hours": "Mo-Fr 09:00-17:30",
     "payment:apple_pay": "yes",
     "payment:credit_cards": "yes",
     "payment:google_pay": "yes",
